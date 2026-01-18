@@ -1,0 +1,492 @@
+request_id,citizen_id,office_id,channel,request_type,category,subcategory,created_at,closed_at,status,priority,satisfaction_rating,resolution_hours,cost_soles,department,province,district,latitude,longitude,contact_email,resolution_hours_calc
+REQ-1507,CI-360,OF-004,app,reclamo,tributos,predial,2024-12-21 05:00:00,2024-12-28 18:00:00,abierto,alta,1.0,179.0,189.7,Lima,Lima,San Isidro,,,user4231@mail.com,181.0
+REQ-1077,CI-801,OF-004,web,reclamo,tributos,multas,2024-12-20 23:00:00,2024-12-29 06:00:00,en_proceso,alta,1.0,192.0,240.12,Lima,Lima,Miraflores,,,user1434@mail.com,199.0
+REQ-1376,CI-906,OF-004,app,consulta,tributos,multas,2024-12-19 05:00:00,2024-12-23 11:00:00,en_proceso,media,2.0,225.0,209.21,Lima,Lima,Surco,-15.425431,-76.087933,user7412@mail.com,102.0
+REQ-1338,CI-490,OF-002,presencial,solicitud,salud,vacunas,2024-12-18 09:00:00,2024-12-18 23:00:00,abierto,media,5.0,14.0,121.46,Lima,Lima,Miraflores,-18.138654,-70.112761,user6972@mail.com,14.0
+REQ-1234,CI-450,OF-003,app,consulta,seguridad,iluminacion,2024-12-17 08:00:00,2024-12-23 10:00:00,en_proceso,baja,2.0,38.0,182.62,Lima,Lima,Miraflores,-16.719156,-75.16234,user5943@mail.com,146.0
+REQ-1415,CI-162,OF-002,callcenter,consulta,salud,citas,2024-12-16 19:00:00,2024-12-19 04:00:00,cerrado,baja,4.0,180.0,,Cusco,Cusco,Wanchaq,-16.992778,-70.749389,user2623@mail.com,57.0
+REQ-1460,CI-545,OF-004,web,reclamo,tributos,predial,2024-12-16 16:00:00,2024-12-25 06:00:00,en_proceso,baja,1.0,186.0,243.85,Cusco,Cusco,Wanchaq,,,user3378@mail.com,206.0
+REQ-1368,CI-123,OF-004,presencial,consulta,tributos,arbitrios,2024-12-16 07:00:00,2024-12-21 08:00:00,abierto,media,4.0,70.0,197.77,Arequipa,Arequipa,Cayma,,,user1296@mail.com,121.0
+REQ-1089,CI-991,OF-005,otro,solicitud,servicios,agua,2024-12-15 17:00:00,2024-12-17 15:00:00,en_proceso,media,5.0,112.0,183.21,La Libertad,Trujillo,Victor Larco,-14.623646,-70.319692,user7892@mail.com,46.0
+REQ-1360,CI-451,OF-003,callcenter,queja,seguridad,ruidos,2024-12-15 00:00:00,2024-12-21 03:00:00,en_proceso,alta,5.0,235.0,328.96,Arequipa,Arequipa,Cayma,,,user6539@mail.com,147.0
+REQ-1169,CI-500,OF-004,web,consulta,tributos,arbitrios,2024-12-14 06:00:00,2024-12-21 18:00:00,cerrado,baja,2.0,83.0,263.29,Arequipa,Arequipa,Cayma,-12.398769,-78.01289,user4982@mail.com,180.0
+REQ-1179,CI-103,OF-002,email,reclamo,salud,abastecimiento,2024-12-14 00:00:00,2024-12-23 10:00:00,cerrado,media,5.0,182.0,,Lima,Lima,Surco,,,user4400@mail.com,226.0
+REQ-1222,CI-828,OF-002,app,solicitud,salud,desconocido,2024-12-12 08:00:00,2024-12-19 16:00:00,abierto,alta,3.0,46.0,8.85,Lima,Lima,Surco,-12.469006,-71.563297,,176.0
+REQ-1133,CI-460,OF-004,email,consulta,tributos,arbitrios,2024-12-12 00:00:00,2024-12-20 04:00:00,abierto,media,4.0,203.0,224.38,Lima,Lima,Miraflores,-15.515566,-72.845334,user5141@mail.com,196.0
+REQ-1442,CI-803,OF-004,web,reclamo,tributos,predial,2024-12-11 15:00:00,2024-12-20 16:00:00,en_proceso,media,,68.0,85.53,Lima,Lima,Miraflores,-12.801738,-77.597646,user3042@mail.com,217.0
+REQ-1461,CI-289,OF-005,app,consulta,servicios,limpieza,2024-12-08 10:00:00,2024-12-18 03:00:00,cerrado,media,2.0,800.0,100.91,Lima,Lima,Miraflores,-17.557888,-71.405648,user448@mail.com,233.0
+REQ-1006,CI-537,OF-005,web,queja,servicios,agua,2024-12-08 04:00:00,2024-12-14 00:00:00,abierto,baja,5.0,38.0,150.43,Lima,Lima,Miraflores,-16.134669,-70.409167,user654@mail.com,140.0
+REQ-1443,CI-344,OF-002,web,queja,salud,vacunas,2024-12-06 00:00:00,2024-12-06 17:00:00,en_proceso,baja,2.0,133.0,97.62,Lima,Lima,San Isidro,-16.776801,-75.827698,user1157@mail.com,17.0
+REQ-1070,CI-402,OF-002,web,,salud,citas,2024-12-05 15:00:00,2024-12-09 04:00:00,abierto,baja,1.0,233.0,38.65,Arequipa,Arequipa,Cayma,-13.717553,-77.1577,user1476@mail.com,85.0
+REQ-1306,CI-230,OF-005,email,queja,servicios,agua,2024-12-05 12:00:00,2024-12-09 02:00:00,en_proceso,media,3.0,187.0,99.28,Arequipa,Arequipa,Cayma,-17.398004,-71.977001,user6808@mail.com,86.0
+REQ-1166,CI-934,OF-002,callcenter,solicitud,salud,abastecimiento,2024-12-03 21:00:00,2024-12-13 04:00:00,en_proceso,media,2.0,1.0,345.16,Lima,Lima,Surco,-18.088577,-75.258149,user750@mail.com,223.0
+REQ-1257,CI-246,OF-005,callcenter,queja,servicios,agua,2024-12-02 02:00:00,2024-12-06 11:00:00,en_proceso,baja,2.0,186.0,326.48,Lima,Lima,Surco,-17.942519,-70.386323,user3829@mail.com,105.0
+REQ-1207,,OF-002,email,solicitud,salud,abastecimiento,2024-12-01 23:00:00,2024-12-02 04:00:00,en_proceso,baja,4.0,179.0,43.83,La Libertad,Trujillo,Victor Larco,-15.340215,-77.260066,user7176@mail.com,5.0
+REQ-1018,CI-274,OF-002,web,solicitud,salud,abastecimiento,2024-11-30 07:00:00,2024-12-05 15:00:00,cerrado,baja,4.0,164.0,88.89,Lima,Lima,Surco,-13.732167,-70.409823,user7623@mail.com,128.0
+REQ-1187,CI-624,OF-005,callcenter,consulta,servicios,agua,2024-11-29 13:00:00,2024-12-04 23:00:00,en_proceso,alta,1.0,159.0,342.1,Lima,Lima,Miraflores,-13.235015,-76.296649,user9189@mail.com,130.0
+REQ-1298,CI-578,OF-004,email,queja,tributos,predial,2024-11-28 17:00:00,2024-12-03 10:00:00,cerrado,baja,2.0,56.0,129.81,,Lima,Miraflores,-16.481741,-70.236169,user6704@mail.com,113.0
+REQ-1503,CI-534,OF-002,presencial,queja,salud,vacunas,2024-11-27 03:00:00,2024-11-27 22:00:00,cerrado,media,1.0,176.0,104.37,La Libertad,Trujillo,Victor Larco,-13.704686,-75.128661,user4842@mail.com,19.0
+REQ-1173,CI-425,OF-004,presencial,consulta,tributos,multas,2024-11-25 17:00:00,2024-12-01 15:00:00,en_proceso,alta,4.0,152.0,44.65,Lima,Lima,Miraflores,-13.599389,-72.080996,user2071@mail.com,142.0
+REQ-1230,CI-383,OF-005,web,solicitud,servicios,agua,2024-11-25 09:00:00,2024-11-28 07:00:00,abierto,baja,4.0,800.0,45.42,Lima,Lima,Surco,-15.101644,-71.387676,user5213@mail.com,70.0
+REQ-1157,CI-562,OF-003,web,reclamo,seguridad,patrullaje,2024-11-22 17:00:00,2024-11-24 15:00:00,,media,4.0,7.0,65.34,Lima,Lima,Miraflores,-12.093986,-75.026953,user3374@mail.com,46.0
+REQ-1227,CI-881,OF-002,app,consulta,salud,vacunas,2024-11-21 23:00:00,2024-12-01 07:00:00,en_proceso,baja,1.0,89.0,170.91,La Libertad,Trujillo,Victor Larco,,,user9971@mail.com,224.0
+REQ-1189,CI-569,OF-999,app,consulta,salud,citas,2024-11-21 13:00:00,2024-11-24 09:00:00,en_proceso,baja,4.0,214.0,300.04,La Libertad,Trujillo,Victor Larco,-15.189498,-69.774882,,68.0
+REQ-1102,CI-150,OF-001,app,reclamo,transporte,semaforos,2024-11-19 09:00:00,2024-11-25 22:00:00,cerrado,media,5.0,202.0,196.76,Cusco,Cusco,Wanchaq,-13.179457,-75.258302,user588@mail.com,157.0
+REQ-1271,CI-388,OF-004,presencial,consulta,tributos,predial,2024-11-18 08:00:00,2024-11-27 16:00:00,abierto,media,1.0,167.0,15.44,Arequipa,Arequipa,Cayma,-12.60287,-74.5819,user8005@mail.com,224.0
+REQ-1037,CI-858,OF-005,presencial,reclamo,servicios,agua,2024-11-16 16:00:00,2024-11-19 02:00:00,cerrado,baja,4.0,85.0,,Lima,Lima,Miraflores,-13.636014,-77.262797,user9017@mail.com,58.0
+REQ-1216,CI-643,OF-002,callcenter,reclamo,salud,vacunas,2024-11-15 15:00:00,2024-11-20 21:00:00,cerrado,baja,3.0,140.0,168.34,Lima,Lima,Miraflores,-16.733165,-69.833729,user4707@mail.com,126.0
+REQ-1259,CI-553,OF-001,presencial,solicitud,transporte,rutas,2024-11-14 05:00:00,2024-11-17 03:00:00,anulado,media,2.0,165.0,140.66,Lima,Lima,San Isidro,-17.190422,-75.651584,user4026@mail.com,70.0
+REQ-1063,CI-375,OF-005,web,reclamo,servicios,limpieza,2024-11-14 03:00:00,2024-11-15 01:00:00,cerrado,alta,4.0,194.0,206.4,Arequipa,Arequipa,Cayma,-17.791409,-75.016045,user8562@mail.com,22.0
+REQ-1055,CI-544,OF-001,app,queja,transporte,baches,2024-11-13 23:00:00,2024-11-21 00:00:00,cerrado,,2.0,169.0,3.97,Cusco,Cusco,Wanchaq,-11.814791,-73.792952,user4248@mail.com,169.0
+REQ-1075,CI-498,OF-002,email,consulta,salud,abastecimiento,2024-11-11 01:00:00,2024-11-20 23:00:00,en_proceso,media,3.0,142.0,18.83,La Libertad,Trujillo,Victor Larco,-16.516014,-72.914945,user7260@mail.com,238.0
+REQ-1107,CI-545,OF-005,callcenter,reclamo,servicios,agua,2024-11-09 21:00:00,2024-11-10 17:00:00,cerrado,media,4.0,30.0,207.26,Cusco,Cusco,Wanchaq,-16.019967,-77.621115,user7295@mail.com,20.0
+REQ-1477,CI-188,OF-003,app,queja,seguridad,iluminacion,2024-11-09 02:00:00,2024-11-17 15:00:00,cerrado,baja,2.0,63.0,24.24,Lima,Lima,Miraflores,-15.581696,-72.865428,user7239@mail.com,205.0
+REQ-1238,CI-567,OF-003,web,reclamo,seguridad,patrullaje,2024-11-08 22:00:00,2024-11-11 16:00:00,en_proceso,baja,3.0,110.0,276.82,Lima,Lima,Surco,-14.460943,-71.848847,user3523@mail.com,66.0
+REQ-1130,CI-119,OF-005,presencial,solicitud,servicios,agua,2024-11-07 23:00:00,2024-11-12 23:00:00,en_proceso,media,5.0,219.0,269.19,Cusco,Cusco,Wanchaq,-11.937939,-71.960464,user982@mail.com,120.0
+REQ-1478,CI-246,OF-003,app,consulta,seguridad,ruidos,2024-11-05 20:00:00,2024-11-11 05:00:00,cerrado,baja,2.0,33.0,339.81,Arequipa,Arequipa,Cayma,-13.418842,-77.570466,user9073@mail.com,129.0
+REQ-1033,CI-195,OF-005,presencial,reclamo,servicios,agua,2024-11-05 19:00:00,2024-11-13 12:00:00,cerrado,baja,5.0,11.0,288.83,Lima,Lima,Miraflores,-17.655807,-69.963078,user9450@mail.com,185.0
+REQ-1204,CI-959,OF-004,app,solicitud,tributos,multas,2024-11-05 05:00:00,2024-11-11 09:00:00,cerrado,media,5.0,67.0,-50.0,Lima,Lima,Surco,-14.254691,-73.273478,user9577@mail.com,148.0
+REQ-1498,CI-139,OF-999,email,consulta,seguridad,patrullaje,2024-11-04 09:00:00,2024-11-11 08:00:00,abierto,baja,5.0,209.0,84.8,Lima,Lima,Surco,-15.746006,-70.768811,user2372@mail.com,167.0
+REQ-1112,CI-224,OF-001,web,reclamo,transporte,baches,2024-11-03 20:00:00,2024-11-09 21:00:00,cerrado,baja,1.0,179.0,64.49,Lima,Lima,Surco,-15.071398,-70.074361,,145.0
+REQ-1232,CI-771,OF-002,web,solicitud,salud,abastecimiento,2024-10-30 13:00:00,2024-11-04 01:00:00,en_proceso,media,5.0,58.0,48.5,Arequipa,Arequipa,Cayma,-14.82748,-77.775448,user9349@mail.com,108.0
+REQ-1395,CI-274,OF-002,web,queja,salud,abastecimiento,2024-10-30 11:00:00,2024-11-04 07:00:00,en_proceso,baja,3.0,17.0,6.89,La Libertad,Trujillo,Victor Larco,-13.576053,-72.294797,user4459@mail.com,116.0
+REQ-1453,CI-660,OF-005,web,reclamo,servicios,limpieza,2024-10-24 17:00:00,2024-10-30 07:00:00,cerrado,alta,1.0,131.0,268.46,Lima,Lima,Miraflores,-13.852665,-74.103911,,134.0
+REQ-1030,CI-934,OF-005,app,consulta,servicios,agua,2024-10-24 06:00:00,2024-10-27 08:00:00,en_proceso,alta,3.0,70.0,43.57,Lima,Lima,Surco,-15.272426,-74.899804,user7205@mail.com,74.0
+REQ-1158,CI-573,OF-005,web,queja,servicios,luz,2024-10-23 14:00:00,2024-10-27 07:00:00,cerrado,media,3.0,101.0,214.56,Lima,Lima,San Isidro,-15.419147,-76.883797,user7080@mail.com,89.0
+REQ-1270,CI-263,OF-001,web,consulta,transporte,semaforos,2024-10-23 06:00:00,2024-10-27 19:00:00,cerrado,baja,3.0,107.0,228.77,Lima,Lima,Surco,-13.038027,-70.413305,user4949@mail.com,109.0
+REQ-1268,CI-218,OF-003,presencial,reclamo,seguridad,patrullaje,2024-10-22 21:00:00,,abierto,media,2.0,123.0,14.84,Lima,Lima,San Isidro,-13.117864,-69.950306,user2256@mail.com,
+REQ-1137,CI-916,OF-005,presencial,reclamo,servicios,agua,2024-10-21 09:00:00,2024-10-24 20:00:00,cerrado,media,,155.0,133.49,Cusco,Cusco,Wanchaq,-16.490402,-76.339279,user6536@mail.com,83.0
+REQ-1072,CI-438,OF-003,web,reclamo,seguridad,ruidos,2024-10-20 12:00:00,2024-10-24 20:00:00,,baja,4.0,800.0,200.56,Lima,Lima,Miraflores,-12.460852,-74.476387,user1945@mail.com,104.0
+REQ-1319,CI-116,OF-005,otro,reclamo,servicios,limpieza,2024-10-20 03:00:00,2024-10-23 04:00:00,anulado,alta,1.0,199.0,123.85,Cusco,Cusco,Wanchaq,-15.634353,-73.737091,user2000@mail.com,73.0
+REQ-1043,CI-801,OF-003,callcenter,solicitud,OTRA,ruidos,2024-10-19 23:00:00,,en_proceso,media,3.0,44.0,48.99,Arequipa,Arequipa,Cayma,-14.928281,-70.247905,user8883@mail.com,
+REQ-1040,CI-132,OF-003,app,reclamo,seguridad,desconocido,2024-10-18 23:00:00,2024-10-25 21:00:00,anulado,baja,,115.0,304.37,Cusco,Cusco,Wanchaq,-15.683175,-72.355427,user8836@mail.com,166.0
+REQ-1455,CI-557,OF-005,web,reclamo,servicios,agua,2024-10-16 09:00:00,2024-10-24 23:00:00,cerrado,baja,4.0,132.0,102.17,Cusco,Cusco,Wanchaq,-11.658611,-73.329455,user4808@mail.com,206.0
+REQ-1237,CI-542,OF-003,web,solicitud,seguridad,iluminacion,2024-10-15 21:00:00,2024-10-21 15:00:00,cerrado,baja,1.0,196.0,81.13,Lima,Lima,Surco,-14.838076,-75.619857,user8691@mail.com,138.0
+REQ-1210,CI-109,OF-004,web,consulta,tributos,arbitrios,2024-10-15 17:00:00,2024-10-18 01:00:00,en_proceso,media,1.0,71.0,313.97,Arequipa,Arequipa,Cayma,-16.096022,-77.923609,user2946@mail.com,56.0
+REQ-1378,CI-497,OF-002,email,solicitud,salud,vacunas,2024-10-15 16:00:00,2024-10-20 19:00:00,abierto,baja,3.0,199.0,257.86,Cusco,Cusco,Wanchaq,-13.926701,-75.964079,user6543@mail.com,123.0
+REQ-1426,CI-124,OF-003,callcenter,queja,seguridad,ruidos,2024-10-14 09:00:00,2024-10-20 12:00:00,abierto,alta,4.0,16.0,91.83,Arequipa,Arequipa,Cayma,-15.368664,-72.198571,,147.0
+REQ-1301,CI-958,OF-002,presencial,reclamo,salud,abastecimiento,2024-10-13 02:00:00,2024-10-13 00:00:00,abierto,media,4.0,185.0,221.85,Lima,Lima,Miraflores,-13.257135,-75.603418,user2698@mail.com,-2.0
+REQ-1272,CI-980,OF-002,email,consulta,salud,abastecimiento,2024-10-09 23:00:00,2024-10-11 16:00:00,cerrado,,2.0,212.0,-50.0,Lima,Lima,Miraflores,-12.682929,-70.573493,user8215@mail.com,41.0
+REQ-1146,CI-384,OF-001,presencial,queja,OTRA,rutas,2024-10-07 22:00:00,2024-10-11 06:00:00,en_proceso,baja,5.0,22.0,67.35,Arequipa,Arequipa,Cayma,-14.56971,-71.681464,user9343@mail.com,80.0
+REQ-1172,CI-792,OF-004,presencial,reclamo,tributos,predial,2024-10-06 23:00:00,2024-10-09 20:00:00,anulado,media,2.0,183.0,130.25,La Libertad,Trujillo,Victor Larco,-13.859934,-73.897153,user2688@mail.com,69.0
+REQ-1165,CI-287,OF-002,callcenter,solicitud,salud,vacunas,2024-10-03 19:00:00,2024-10-04 23:00:00,,baja,3.0,22.0,99999.99,Lima,Lima,Surco,,,user3847@mail.com,28.0
+REQ-1151,CI-894,OF-999,email,solicitud,servicios,agua,2024-10-02 14:00:00,2024-10-08 19:00:00,abierto,critica,1.0,97.0,109.65,La Libertad,Trujillo,Victor Larco,-17.764311,-77.352178,user7241@mail.com,149.0
+REQ-1023,CI-385,OF-005,presencial,solicitud,servicios,limpieza,2024-09-28 19:00:00,2024-10-06 00:00:00,cerrado,baja,3.0,8.0,63.15,La Libertad,Trujillo,Victor Larco,-13.091856,-70.206162,user5752@mail.com,173.0
+REQ-1516,CI-872,OF-004,presencial,reclamo,tributos,predial,2024-09-28 18:00:00,2024-09-29 09:00:00,cerrado,media,1.0,147.0,297.89,La Libertad,Trujillo,Victor Larco,-17.975569,-74.818629,user6528@mail.com,15.0
+REQ-1139,CI-808,OF-004,email,solicitud,tributos,arbitrios,2024-09-25 19:00:00,2024-09-29 16:00:00,cerrado,,4.0,206.0,105.93,Lima,Lima,San Isidro,-17.294737,-76.782781,user261@mail.com,93.0
+REQ-1265,CI-746,OF-002,callcenter,consulta,salud,abastecimiento,2024-09-25 13:00:00,2024-10-02 02:00:00,abierto,baja,,88.0,253.66,La Libertad,Trujillo,Victor Larco,-12.410547,-75.173892,user7759@mail.com,157.0
+REQ-1322,CI-258,OF-005,web,consulta,servicios,agua,2024-09-25 02:00:00,2024-09-30 13:00:00,cerrado,alta,4.0,98.0,314.88,Arequipa,Arequipa,Cayma,-16.584704,-77.57975,user870@mail.com,131.0
+REQ-1191,CI-685,OF-004,presencial,solicitud,tributos,predial,2024-09-23 20:00:00,2024-09-28 01:00:00,cerrado,alta,5.0,110.0,45.1,La Libertad,Trujillo,Victor Larco,-15.584242,-71.946986,user6605@mail.com,101.0
+REQ-1486,CI-299,OF-003,callcenter,queja,seguridad,patrullaje,2024-09-21 22:00:00,2024-09-25 20:00:00,abierto,alta,3.0,94.0,345.24,Cusco,Cusco,Wanchaq,-13.62959,-75.219236,user7519@mail.com,94.0
+REQ-1009,CI-783,OF-005,email,consulta,servicios,luz,2024-09-19 23:00:00,2024-09-29 12:00:00,en_proceso,alta,5.0,115.0,314.02,La Libertad,Trujillo,Victor Larco,-12.427984,-74.449372,user4051@mail.com,229.0
+REQ-1223,CI-926,OF-001,otro,consulta,transporte,semaforos,2024-09-19 22:00:00,2024-09-21 14:00:00,cerrado,baja,2.0,22.0,146.85,Lima,Lima,Miraflores,,,user1022@mail.com,40.0
+REQ-1206,CI-394,OF-001,email,reclamo,transporte,rutas,2024-09-17 16:00:00,2024-09-21 00:00:00,en_proceso,baja,1.0,150.0,164.84,Lima,Lima,Surco,-13.823346,-78.209527,user6905@mail.com,80.0
+REQ-1217,CI-270,OF-005,presencial,queja,servicios,limpieza,2024-09-17 10:00:00,2024-09-18 20:00:00,cerrado,baja,1.0,206.0,132.72,La Libertad,Trujillo,Victor Larco,-15.96697,-75.325694,user9059@mail.com,34.0
+REQ-1357,CI-932,OF-001,app,consulta,transporte,baches,2024-09-14 01:00:00,2024-09-23 06:00:00,cerrado,media,5.0,56.0,41.77,Lima,Lima,Miraflores,-16.433407,-70.920678,user8868@mail.com,221.0
+REQ-1267,CI-380,OF-004,callcenter,reclamo,tributos,multas,2024-09-13 14:00:00,2024-09-16 15:00:00,abierto,baja,1.0,32.0,18.35,Lima,Lima,Surco,-14.497747,-75.180602,user5166@mail.com,73.0
+REQ-1211,CI-996,OF-003,presencial,queja,seguridad,iluminacion,2024-09-13 11:00:00,2024-09-17 01:00:00,anulado,alta,3.0,121.0,-50.0,Lima,Lima,Surco,-14.03316,-77.057185,user731@mail.com,86.0
+REQ-1035,CI-240,OF-003,app,solicitud,seguridad,patrullaje,2024-09-12 16:00:00,2024-09-14 04:00:00,en_proceso,media,2.0,101.0,346.72,La Libertad,Trujillo,Victor Larco,-12.554567,-73.156478,user8312@mail.com,36.0
+REQ-1132,CI-832,OF-003,callcenter,queja,seguridad,ruidos,2024-09-12 01:00:00,2024-09-21 01:00:00,cerrado,alta,1.0,177.0,321.11,La Libertad,Trujillo,Victor Larco,-16.594172,-73.525449,user5068@mail.com,216.0
+REQ-1275,CI-218,OF-001,presencial,reclamo,transporte,semaforos,2024-09-11 18:00:00,2024-09-12 01:00:00,en_proceso,baja,,6.0,247.94,La Libertad,Trujillo,Victor Larco,-15.732468,-73.608638,user6859@mail.com,7.0
+REQ-1437,CI-154,OF-004,app,queja,tributos,multas,2024-09-11 17:00:00,2024-09-16 21:00:00,anulado,baja,2.0,11.0,342.67,La Libertad,Trujillo,,-17.412854,-72.206376,user1519@mail.com,124.0
+REQ-1022,CI-711,OF-005,callcenter,solicitud,servicios,limpieza,2024-09-11 13:00:00,2024-09-12 15:00:00,cerrado,baja,5.0,185.0,302.92,Cusco,Cusco,Wanchaq,-15.174582,-76.443558,user5554@mail.com,26.0
+REQ-1243,CI-575,OF-004,email,solicitud,tributos,predial,2024-09-09 20:00:00,2024-09-09 21:00:00,en_proceso,media,3.0,33.0,113.01,Arequipa,Arequipa,Cayma,-15.750596,-72.977514,user1580@mail.com,1.0
+REQ-1387,,OF-004,presencial,consulta,tributos,arbitrios,2024-09-09 06:00:00,2024-09-09 16:00:00,en_proceso,media,5.0,8.0,77.79,Lima,Lima,Miraflores,-14.649997,-74.708432,user1125@mail.com,10.0
+REQ-1492,CI-993,OF-003,web,queja,seguridad,ruidos,2024-09-09 05:00:00,2024-09-12 01:00:00,,media,2.0,134.0,,Arequipa,Arequipa,Cayma,,,user7587@mail.com,68.0
+REQ-1131,CI-901,OF-001,web,queja,transporte,baches,2024-09-08 09:00:00,2024-09-17 15:00:00,abierto,critica,3.0,172.0,230.1,Lima,Lima,Miraflores,-15.540803,-70.941706,user2303@mail.com,222.0
+REQ-1374,CI-617,OF-001,presencial,reclamo,transporte,baches,2024-09-05 01:00:00,2024-09-13 15:00:00,anulado,alta,3.0,99.0,137.97,Arequipa,Arequipa,Cayma,-16.312292,-76.207498,user8309@mail.com,206.0
+REQ-1062,CI-484,OF-002,web,queja,salud,vacunas,2024-08-31 19:00:00,2024-09-10 08:00:00,en_proceso,baja,2.0,156.0,311.41,Lima,Lima,San Isidro,-17.841177,-75.520149,user3113@mail.com,229.0
+REQ-1400,CI-912,OF-003,app,,seguridad,patrullaje,2024-08-30 03:00:00,2024-09-05 16:00:00,abierto,media,5.0,197.0,272.35,Lima,Lima,Miraflores,-17.387169,-77.428001,user44@mail.com,157.0
+REQ-1263,CI-874,OF-002,presencial,solicitud,salud,abastecimiento,2024-08-29 09:00:00,2024-09-04 19:00:00,en_proceso,media,2.0,110.0,87.83,Lima,Lima,Surco,-13.272531,-73.725042,,154.0
+REQ-1290,CI-574,OF-005,email,reclamo,servicios,luz,2024-08-28 07:00:00,2024-09-02 03:00:00,en_proceso,alta,1.0,210.0,80.32,Arequipa,Arequipa,Cayma,-16.497249,-76.111707,user8696@mail.com,116.0
+REQ-1330,CI-125,OF-001,web,queja,transporte,baches,2024-08-25 15:00:00,2024-09-01 18:00:00,en_proceso,alta,1.0,6.0,262.16,Lima,Lima,Surco,-14.276717,-73.605098,user9045@mail.com,171.0
+REQ-1161,CI-593,OF-001,callcenter,queja,transporte,rutas,2024-08-22 14:00:00,2024-08-26 16:00:00,en_proceso,media,5.0,151.0,246.62,Lima,Lima,Miraflores,-16.64154,-72.952862,user2033@mail.com,98.0
+REQ-1392,CI-766,OF-003,app,solicitud,seguridad,patrullaje,2024-08-21 15:00:00,2024-08-27 17:00:00,abierto,baja,1.0,26.0,132.94,Lima,Lima,San Isidro,-15.567655,-72.390416,,146.0
+REQ-1041,CI-322,OF-001,presencial,consulta,transporte,semaforos,2024-08-12 10:00:00,2024-08-18 14:00:00,en_proceso,media,3.0,61.0,105.62,Lima,Lima,San Isidro,-11.59584,-73.808741,user6776@mail.com,148.0
+REQ-1086,CI-968,OF-004,callcenter,consulta,tributos,arbitrios,2024-08-11 08:00:00,2024-08-16 14:00:00,abierto,alta,5.0,800.0,139.26,Arequipa,Arequipa,Cayma,,,user6934@mail.com,126.0
+REQ-1113,CI-499,OF-003,presencial,consulta,seguridad,iluminacion,2024-08-11 00:00:00,2024-08-16 12:00:00,cerrado,alta,,112.0,141.37,La Libertad,Trujillo,Victor Larco,-12.967722,-71.431565,user8850@mail.com,132.0
+REQ-1493,CI-827,OF-004,presencial,consulta,tributos,multas,2024-08-10 14:00:00,2024-08-14 12:00:00,abierto,alta,3.0,7.0,244.05,Lima,Lima,Surco,-14.884718,-71.462949,user1508@mail.com,94.0
+REQ-1445,CI-914,OF-003,app,queja,seguridad,iluminacion,2024-08-10 14:00:00,2024-08-13 11:00:00,en_proceso,media,5.0,54.0,36.57,Lima,Lima,San Isidro,-11.627701,-72.209155,user9351@mail.com,69.0
+REQ-1331,CI-596,OF-003,web,solicitud,seguridad,iluminacion,2024-08-07 08:00:00,2024-08-10 00:00:00,abierto,baja,3.0,112.0,64.06,La Libertad,Trujillo,Victor Larco,-13.584476,-73.861507,user9683@mail.com,64.0
+REQ-1315,CI-278,OF-001,email,reclamo,transporte,baches,2024-08-04 12:00:00,2024-08-09 09:00:00,cerrado,critica,5.0,152.0,-50.0,La Libertad,Trujillo,Victor Larco,-16.400933,-74.63035,user9978@mail.com,117.0
+REQ-1480,CI-977,OF-001,callcenter,consulta,transporte,baches,2024-08-03 14:00:00,2024-08-12 18:00:00,cerrado,baja,5.0,75.0,,Lima,Lima,Miraflores,-15.124998,-76.667494,user8679@mail.com,220.0
+REQ-1219,CI-244,OF-004,email,solicitud,tributos,multas,2024-08-03 07:00:00,2024-08-03 23:00:00,cerrado,baja,3.0,190.0,118.25,Lima,Lima,San Isidro,,,user9810@mail.com,16.0
+REQ-1134,CI-366,OF-002,web,consulta,salud,citas,2024-08-03 03:00:00,2024-08-03 07:00:00,cerrado,media,4.0,212.0,235.76,Lima,Lima,Miraflores,-16.695958,-76.671692,,4.0
+REQ-1202,CI-376,OF-001,callcenter,queja,transporte,baches,2024-08-02 15:00:00,2024-08-10 00:00:00,en_proceso,baja,5.0,173.0,178.79,La Libertad,Trujillo,Victor Larco,,,user2362@mail.com,177.0
+REQ-1047,CI-485,OF-003,app,consulta,seguridad,patrullaje,2024-07-31 06:00:00,2024-08-06 14:00:00,anulado,baja,5.0,7.0,333.55,Cusco,Cusco,Wanchaq,-11.882068,-76.613164,user4774@mail.com,152.0
+REQ-1136,CI-218,OF-004,otro,solicitud,tributos,arbitrios,2024-07-28 15:00:00,2024-08-02 13:00:00,en_proceso,alta,2.0,32.0,122.36,Lima,Lima,San Isidro,-12.38324,-76.874105,user2758@mail.com,118.0
+REQ-1334,CI-255,OF-001,app,queja,transporte,semaforos,2024-07-28 10:00:00,2024-07-29 13:00:00,en_proceso,baja,3.0,149.0,266.02,La Libertad,Trujillo,Victor Larco,-15.475573,-73.616423,user2049@mail.com,27.0
+REQ-1408,CI-957,OF-002,web,solicitud,salud,vacunas,2024-07-27 03:00:00,2024-08-05 18:00:00,cerrado,baja,3.0,141.0,99999.99,La Libertad,Trujillo,Victor Larco,-13.400669,-75.202972,user5766@mail.com,231.0
+REQ-1372,CI-649,OF-003,web,reclamo,seguridad,patrullaje,2024-07-26 19:00:00,2024-07-29 19:00:00,en_proceso,baja,4.0,-5.0,117.87,Lima,Lima,San Isidro,-16.866899,-77.298711,user2512@mail.com,72.0
+REQ-1250,CI-121,OF-005,app,solicitud,servicios,luz,2024-07-23 17:00:00,2024-07-29 19:00:00,abierto,baja,5.0,149.0,139.87,Arequipa,Arequipa,Cayma,-12.246352,-69.68782,user4285@mail.com,146.0
+REQ-1355,CI-806,OF-004,presencial,queja,tributos,arbitrios,2024-07-23 16:00:00,2024-07-24 04:00:00,cerrado,alta,3.0,235.0,82.72,Arequipa,Arequipa,Cayma,-13.070561,-72.205722,user3539@mail.com,12.0
+REQ-1323,CI-908,OF-005,email,reclamo,servicios,luz,2024-07-23 09:00:00,2024-07-26 06:00:00,en_proceso,media,4.0,189.0,260.28,Cusco,Cusco,Wanchaq,-16.733598,-71.225824,user4749@mail.com,69.0
+REQ-1312,CI-233,OF-005,presencial,consulta,servicios,agua,2024-07-22 02:00:00,2024-07-30 01:00:00,cerrado,media,4.0,191.0,134.57,Lima,Lima,Miraflores,-11.620718,-73.411208,user9860@mail.com,191.0
+REQ-1074,CI-866,OF-005,callcenter,consulta,servicios,limpieza,2024-07-20 20:00:00,2024-07-23 04:00:00,abierto,media,3.0,176.0,120.85,La Libertad,Trujillo,Victor Larco,-17.311099,-72.106432,user2914@mail.com,56.0
+REQ-1014,CI-776,OF-001,presencial,reclamo,transporte,semaforos,2024-07-19 02:00:00,2024-07-20 19:00:00,abierto,media,5.0,121.0,101.94,Lima,Lima,San Isidro,-16.269697,-75.955535,user7439@mail.com,41.0
+REQ-1208,CI-979,OF-002,app,consulta,salud,vacunas,2024-07-18 09:00:00,2024-07-27 16:00:00,cerrado,media,,82.0,244.22,Arequipa,Arequipa,Cayma,-17.500666,-75.380281,user6732@mail.com,223.0
+REQ-1101,CI-636,OF-999,email,reclamo,tributos,desconocido,2024-07-17 12:00:00,2024-07-18 00:00:00,cerrado,alta,5.0,224.0,230.84,Lima,Lima,San Isidro,,,user841@mail.com,12.0
+REQ-1039,CI-865,OF-005,callcenter,solicitud,servicios,limpieza,2024-07-16 15:00:00,2024-07-24 17:00:00,en_proceso,media,2.0,196.0,86.61,Arequipa,Arequipa,Cayma,-12.349995,-77.763167,user7320@mail.com,194.0
+REQ-1379,CI-198,OF-002,email,reclamo,OTRA,citas,2024-07-16 00:00:00,2024-07-16 15:00:00,abierto,media,4.0,6.0,258.13,La Libertad,Trujillo,Victor Larco,-17.073787,-78.480821,user89@mail.com,15.0
+REQ-1414,CI-291,OF-001,presencial,solicitud,transporte,rutas,2024-07-16 00:00:00,2024-07-17 01:00:00,anulado,alta,2.0,174.0,139.13,Cusco,,Wanchaq,-12.646871,-77.95505,user8952@mail.com,25.0
+REQ-1440,,OF-001,email,queja,transporte,rutas,2024-07-15 19:00:00,2024-07-19 23:00:00,en_proceso,baja,2.0,73.0,310.21,Lima,Lima,Surco,,,user6655@mail.com,100.0
+REQ-1109,CI-691,OF-004,presencial,consulta,tributos,arbitrios,2024-07-13 18:00:00,2024-07-17 16:00:00,abierto,baja,4.0,181.0,129.0,Arequipa,Arequipa,Cayma,-14.97373,-72.285525,user2328@mail.com,94.0
+REQ-1000,CI-350,OF-002,presencial,queja,salud,abastecimiento,2024-07-12 02:00:00,2024-07-11 15:00:00,en_proceso,baja,2.0,60.0,176.87,Lima,Lima,Miraflores,-14.439658,-72.055823,user8929@mail.com,-11.0
+REQ-1218,CI-839,OF-004,web,queja,tributos,multas,2024-07-08 19:00:00,2024-07-18 15:00:00,abierto,media,4.0,50.0,291.02,Lima,Lima,Surco,-12.942029,-74.673626,user384@mail.com,236.0
+REQ-1436,CI-112,OF-003,callcenter,consulta,seguridad,patrullaje,2024-07-06 08:00:00,2024-07-06 13:00:00,anulado,baja,5.0,39.0,62.37,Arequipa,Arequipa,Cayma,-18.038305,-76.618945,user6269@mail.com,5.0
+REQ-1417,CI-267,OF-005,app,reclamo,servicios,agua,2024-07-04 00:00:00,2024-07-07 17:00:00,en_proceso,media,2.0,32.0,44.21,Lima,Lima,Surco,-13.157187,-77.685807,user9500@mail.com,89.0
+REQ-1390,CI-753,OF-001,presencial,consulta,transporte,baches,2024-07-03 03:00:00,2024-07-11 10:00:00,abierto,baja,,214.0,188.57,Lima,Lima,Surco,-11.866758,-75.470966,user187@mail.com,199.0
+REQ-1236,CI-879,OF-005,app,solicitud,servicios,agua,2024-07-03 01:00:00,2024-07-06 11:00:00,cerrado,baja,4.0,30.0,154.66,Cusco,Cusco,Wanchaq,-16.877445,-73.61868,user3523@mail.com,82.0
+REQ-1309,CI-847,OF-004,web,consulta,tributos,predial,2024-07-02 11:00:00,2024-07-08 16:00:00,en_proceso,critica,2.0,38.0,115.62,Lima,Lima,Miraflores,-16.22747,-71.549304,user5073@mail.com,149.0
+REQ-1229,CI-644,OF-004,presencial,reclamo,tributos,predial,2024-07-01 03:00:00,2024-07-02 12:00:00,cerrado,media,4.0,229.0,96.14,Cusco,Cusco,Wanchaq,-13.583754,-76.303094,user8578@mail.com,33.0
+REQ-1111,CI-822,OF-004,app,consulta,tributos,,2024-06-27 13:00:00,2024-06-27 17:00:00,en_proceso,alta,4.0,174.0,110.49,Arequipa,Arequipa,Cayma,-13.624729,-78.130841,user8705@mail.com,4.0
+REQ-1361,CI-797,OF-001,web,queja,transporte,baches,2024-06-27 11:00:00,2024-07-07 07:00:00,abierto,alta,1.0,95.0,255.46,Cusco,Cusco,Wanchaq,-17.581067,-70.107212,user4602@mail.com,236.0
+REQ-1184,CI-253,OF-002,app,reclamo,salud,abastecimiento,2024-06-24 22:00:00,2024-06-28 03:00:00,en_proceso,media,4.0,201.0,99999.99,Lima,Lima,Miraflores,-16.278647,-77.097014,user527@mail.com,77.0
+REQ-1302,CI-690,OF-005,app,consulta,servicios,luz,2024-06-18 02:00:00,2024-06-19 17:00:00,abierto,alta,,160.0,275.91,Lima,Lima,Surco,-15.657717,-78.136552,user7122@mail.com,39.0
+REQ-1048,CI-110,OF-001,callcenter,reclamo,transporte,rutas,2024-06-15 17:00:00,2024-06-21 22:00:00,cerrado,baja,3.0,101.0,162.07,La Libertad,Trujillo,Victor Larco,-14.256447,-73.995808,user5652@mail.com,149.0
+REQ-1174,CI-534,OF-005,presencial,solicitud,servicios,luz,2024-06-11 21:00:00,2024-06-19 03:00:00,cerrado,media,4.0,4.0,215.7,La Libertad,Trujillo,Victor Larco,-18.151155,-74.67519,user8755@mail.com,174.0
+REQ-1314,,OF-004,presencial,reclamo,tributos,predial,2024-06-11 05:00:00,2024-06-17 01:00:00,cerrado,baja,1.0,140.0,80.12,Cusco,Cusco,Wanchaq,-11.769559,-78.293732,user9644@mail.com,140.0
+REQ-1311,CI-589,OF-002,web,queja,salud,abastecimiento,2024-06-10 13:00:00,2024-06-16 23:00:00,en_proceso,alta,1.0,15.0,40.87,Cusco,Cusco,Wanchaq,-14.823874,-77.824489,user3168@mail.com,154.0
+REQ-1007,CI-985,OF-001,callcenter,consulta,transporte,rutas,2024-06-05 12:00:00,2024-06-12 18:00:00,anulado,media,1.0,30.0,306.96,Lima,Lima,Surco,-17.003596,-69.837191,,174.0
+REQ-1418,CI-380,OF-004,callcenter,reclamo,tributos,multas,2024-06-04 20:00:00,2024-06-14 15:00:00,en_proceso,baja,,180.0,8.89,Arequipa,Arequipa,Cayma,-15.347653,-74.46288,user3745@mail.com,235.0
+REQ-1407,CI-259,OF-003,email,queja,seguridad,ruidos,2024-06-03 08:00:00,2024-06-04 10:00:00,en_proceso,baja,4.0,211.0,183.36,Lima,Lima,Surco,-12.027528,-72.841823,user1263@mail.com,26.0
+REQ-1519,CI-308,OF-001,presencial,consulta,transporte,semaforos,2024-06-01 21:00:00,2024-06-03 22:00:00,abierto,baja,3.0,51.0,93.64,Cusco,Cusco,Wanchaq,-13.024612,-73.689394,user1287@mail.com,49.0
+REQ-1135,CI-921,OF-005,web,queja,servicios,luz,2024-05-31 19:00:00,2024-06-04 21:00:00,en_proceso,baja,3.0,34.0,338.82,Arequipa,Arequipa,Cayma,-17.924463,-76.88565,user2784@mail.com,98.0
+REQ-1333,CI-910,OF-002,email,solicitud,salud,abastecimiento,2024-05-31 04:00:00,2024-06-05 03:00:00,cerrado,baja,4.0,171.0,222.39,Lima,Lima,Surco,-17.910998,-75.308229,user1932@mail.com,119.0
+REQ-1225,CI-455,OF-003,presencial,consulta,seguridad,ruidos,2024-05-30 17:00:00,2024-06-08 14:00:00,cerrado,baja,5.0,198.0,73.75,Lima,Lima,San Isidro,-15.066489,-78.216968,user1890@mail.com,213.0
+REQ-1283,CI-957,OF-004,callcenter,solicitud,tributos,predial,2024-05-30 15:00:00,,cerrado,baja,5.0,,294.68,Lima,Lima,Miraflores,-14.150548,-74.788283,user6160@mail.com,
+REQ-1017,CI-779,OF-002,app,queja,salud,citas,2024-05-29 18:00:00,2024-06-02 07:00:00,cerrado,alta,4.0,26.0,184.08,Cusco,Cusco,Wanchaq,-18.097171,-77.202601,user2530@mail.com,85.0
+REQ-1320,,OF-003,callcenter,consulta,seguridad,patrullaje,2024-05-29 04:00:00,2024-06-01 10:00:00,anulado,alta,1.0,208.0,242.61,Lima,Lima,Surco,-18.029849,-70.106829,user103@mail.com,78.0
+REQ-1012,CI-683,OF-005,app,consulta,servicios,agua,2024-05-21 10:00:00,2024-05-23 09:00:00,en_proceso,baja,3.0,88.0,97.88,Arequipa,Arequipa,Cayma,-13.502069,-76.013583,user167@mail.com,47.0
+REQ-1254,CI-545,OF-004,web,solicitud,tributos,predial,2024-05-18 03:00:00,2024-05-21 14:00:00,en_proceso,media,3.0,128.0,347.3,Lima,Lima,Surco,-13.035354,-72.209885,user8644@mail.com,83.0
+REQ-1393,CI-785,OF-005,otro,queja,servicios,agua,2024-05-17 06:00:00,2024-05-17 09:00:00,en_proceso,media,2.0,109.0,47.01,Arequipa,Arequipa,Cayma,-12.355171,-76.130326,user4247@mail.com,3.0
+REQ-1495,CI-146,OF-004,app,reclamo,tributos,desconocido,2024-05-16 04:00:00,2024-05-25 05:00:00,anulado,baja,3.0,171.0,220.11,La Libertad,Trujillo,Victor Larco,-18.167926,-73.439947,user469@mail.com,217.0
+REQ-1175,CI-758,OF-005,web,solicitud,servicios,limpieza,2024-05-14 01:00:00,2024-05-17 21:00:00,abierto,media,3.0,91.0,37.51,Lima,Lima,Surco,-12.235685,-76.824581,user5809@mail.com,92.0
+REQ-1289,CI-107,OF-002,otro,solicitud,salud,citas,2024-05-13 10:00:00,2024-05-15 00:00:00,abierto,baja,5.0,155.0,173.38,Lima,Lima,Surco,-12.121044,-72.01294,user6847@mail.com,38.0
+REQ-1010,CI-325,OF-004,presencial,consulta,tributos,arbitrios,2024-05-12 00:00:00,2024-05-16 04:00:00,en_proceso,media,4.0,186.0,57.77,Cusco,Cusco,Wanchaq,-12.039071,-69.673502,user8752@mail.com,100.0
+REQ-1380,CI-613,OF-005,otro,reclamo,servicios,agua,2024-05-10 13:00:00,2024-05-20 04:00:00,cerrado,media,1.0,227.0,220.89,Arequipa,Arequipa,Cayma,-12.082559,-71.749617,user6595@mail.com,231.0
+REQ-1080,CI-263,OF-002,email,reclamo,salud,abastecimiento,2024-05-10 11:00:00,2024-05-10 22:00:00,abierto,media,1.0,68.0,129.3,Lima,Lima,Miraflores,-13.720476,-73.839033,user5919@mail.com,11.0
+REQ-1097,CI-308,OF-005,email,consulta,servicios,limpieza,2024-05-09 19:00:00,2024-05-17 14:00:00,anulado,media,1.0,97.0,204.05,La Libertad,Trujillo,Victor Larco,,,user985@mail.com,187.0
+REQ-1276,CI-109,OF-003,presencial,consulta,seguridad,patrullaje,2024-05-06 06:00:00,2024-05-08 07:00:00,cerrado,media,2.0,26.0,60.35,Arequipa,Arequipa,Cayma,-13.956243,-73.627375,user1162@mail.com,49.0
+REQ-1119,CI-442,OF-002,email,queja,salud,abastecimiento,2024-05-04 23:00:00,2024-05-13 00:00:00,en_proceso,critica,2.0,193.0,260.76,Lima,Lima,San Isidro,-16.052892,-70.418603,user8251@mail.com,193.0
+REQ-1082,CI-616,OF-004,presencial,queja,tributos,predial,2024-05-02 19:00:00,2024-05-09 05:00:00,abierto,alta,5.0,193.0,41.13,Cusco,,Wanchaq,-13.78207,-70.382137,user8836@mail.com,154.0
+REQ-1252,,OF-004,app,solicitud,tributos,multas,2024-04-30 04:00:00,2024-05-09 05:00:00,en_proceso,baja,3.0,46.0,247.54,Lima,Lima,Surco,-14.852132,-76.838903,user6577@mail.com,217.0
+REQ-1370,CI-297,OF-003,app,consulta,seguridad,iluminacion,2024-04-28 18:00:00,2024-04-30 04:00:00,cerrado,baja,2.0,3.0,15.02,Lima,Lima,Surco,-14.403211,-70.865691,user6251@mail.com,34.0
+REQ-1502,CI-470,OF-003,callcenter,solicitud,seguridad,ruidos,2024-04-28 04:00:00,2024-05-04 18:00:00,en_proceso,baja,1.0,154.0,65.12,Cusco,Cusco,Wanchaq,-14.859941,-76.373054,user7310@mail.com,158.0
+REQ-1126,CI-333,OF-004,web,consulta,tributos,predial,2024-04-22 03:00:00,2024-04-27 17:00:00,abierto,alta,3.0,143.0,252.75,Lima,Lima,Miraflores,-16.001627,-77.458497,user4647@mail.com,134.0
+REQ-1240,CI-765,OF-002,web,solicitud,salud,vacunas,2024-04-21 14:00:00,2024-05-01 02:00:00,,media,3.0,19.0,63.59,Arequipa,Arequipa,Cayma,-15.923275,-73.750574,user7085@mail.com,228.0
+REQ-1475,CI-234,OF-001,callcenter,queja,transporte,baches,2024-04-20 17:00:00,2024-04-30 15:00:00,cerrado,alta,3.0,176.0,84.26,Lima,Lima,San Isidro,-12.171024,-75.057952,user3440@mail.com,238.0
+REQ-1159,CI-356,OF-001,presencial,consulta,transporte,desconocido,2024-04-20 15:00:00,2024-04-25 14:00:00,abierto,media,2.0,183.0,332.51,Lima,Lima,San Isidro,,,,119.0
+REQ-1350,CI-204,OF-002,web,queja,salud,citas,2024-04-18 16:00:00,2024-04-22 20:00:00,abierto,critica,1.0,37.0,114.99,Lima,Lima,Surco,-13.482131,-74.493333,user6375@mail.com,100.0
+REQ-1288,CI-967,OF-003,callcenter,reclamo,seguridad,patrullaje,2024-04-17 04:00:00,2024-04-24 17:00:00,abierto,baja,5.0,225.0,41.2,Lima,Lima,Miraflores,-11.511888,-77.365012,user1204@mail.com,181.0
+REQ-1196,CI-488,OF-003,presencial,reclamo,seguridad,ruidos,2024-04-16 03:00:00,2024-04-17 12:00:00,en_proceso,baja,5.0,228.0,297.55,Cusco,Cusco,Wanchaq,-13.932746,-72.485883,user8549@mail.com,33.0
+REQ-1085,CI-486,OF-005,app,reclamo,servicios,luz,2024-04-14 21:00:00,2024-04-19 19:00:00,cerrado,alta,4.0,30.0,90.24,Cusco,Cusco,Wanchaq,,,user3768@mail.com,118.0
+REQ-1100,CI-649,OF-005,web,queja,servicios,luz,2024-04-12 01:00:00,2024-04-21 10:00:00,anulado,media,4.0,189.0,13.74,Cusco,Cusco,Wanchaq,-14.741951,-72.824163,user808@mail.com,225.0
+REQ-1155,CI-142,OF-004,email,consulta,tributos,arbitrios,2024-04-06 14:00:00,2024-04-11 05:00:00,en_proceso,alta,3.0,70.0,133.83,Lima,Lima,San Isidro,,,user1244@mail.com,111.0
+REQ-1511,CI-236,OF-005,callcenter,consulta,servicios,agua,2024-04-05 08:00:00,2024-04-07 13:00:00,,alta,5.0,221.0,121.59,Arequipa,Arequipa,Cayma,-13.954869,-70.076479,user6115@mail.com,53.0
+REQ-1313,CI-453,OF-004,web,reclamo,tributos,predial,2024-04-03 02:00:00,2024-04-12 15:00:00,cerrado,baja,3.0,152.0,17.21,Lima,Lima,San Isidro,-12.407462,-75.592796,user2308@mail.com,229.0
+REQ-1452,CI-655,OF-004,web,consulta,tributos,arbitrios,2024-04-02 18:00:00,2024-04-06 05:00:00,cerrado,baja,4.0,800.0,173.74,Lima,Lima,Surco,-16.843082,-73.776518,user8924@mail.com,83.0
+REQ-1178,CI-142,OF-005,presencial,reclamo,servicios,limpieza,2024-04-01 03:00:00,2024-04-01 23:00:00,cerrado,media,3.0,186.0,165.97,Lima,Lima,San Isidro,-14.625164,-77.116949,user2095@mail.com,20.0
+REQ-1451,CI-592,OF-003,email,reclamo,seguridad,patrullaje,2024-03-30 06:00:00,2024-04-06 18:00:00,abierto,media,5.0,55.0,230.02,La Libertad,Trujillo,Victor Larco,-12.07112,-77.721934,user1512@mail.com,180.0
+REQ-1019,CI-838,OF-002,web,queja,salud,vacunas,2024-03-27 01:00:00,2024-04-02 06:00:00,en_proceso,baja,3.0,84.0,261.62,Lima,Lima,San Isidro,-16.854675,-71.421385,user5995@mail.com,149.0
+REQ-1441,CI-423,OF-004,web,consulta,tributos,multas,2024-03-26 18:00:00,2024-03-27 10:00:00,en_proceso,baja,3.0,20.0,73.22,Arequipa,Arequipa,Cayma,-16.013138,-74.518961,user4348@mail.com,16.0
+REQ-1241,CI-338,OF-002,callcenter,queja,salud,,2024-03-26 03:00:00,2024-04-04 01:00:00,cerrado,baja,2.0,98.0,17.23,Cusco,Cusco,Wanchaq,-15.525506,-76.64931,user6235@mail.com,214.0
+REQ-1514,CI-837,OF-001,web,queja,transporte,semaforos,2024-03-25 17:00:00,2024-03-31 21:00:00,en_proceso,baja,5.0,167.0,72.94,Lima,Lima,Surco,-13.893907,-73.966564,user6044@mail.com,148.0
+REQ-1296,CI-292,OF-002,app,solicitud,salud,vacunas,2024-03-23 01:00:00,2024-03-25 18:00:00,abierto,media,1.0,201.0,311.13,Lima,Lima,Miraflores,-13.186227,-73.781462,user3340@mail.com,65.0
+REQ-1002,CI-649,OF-003,callcenter,queja,seguridad,iluminacion,2024-03-21 05:00:00,2024-03-26 02:00:00,abierto,media,3.0,129.0,266.69,Arequipa,Arequipa,Cayma,-12.085393,-70.665333,user4890@mail.com,117.0
+REQ-1505,CI-197,OF-005,email,queja,servicios,agua,2024-03-19 02:00:00,2024-03-24 09:00:00,abierto,alta,3.0,105.0,301.55,Lima,Lima,Miraflores,-11.545872,-76.698954,user1543@mail.com,127.0
+REQ-1248,CI-687,OF-005,web,solicitud,servicios,limpieza,2024-03-18 21:00:00,2024-03-28 14:00:00,abierto,media,1.0,162.0,331.08,Lima,Lima,Miraflores,-16.241745,-74.790705,user465@mail.com,233.0
+REQ-1247,CI-985,OF-003,presencial,solicitud,seguridad,ruidos,2024-03-18 13:00:00,,cerrado,alta,3.0,,253.42,Lima,Lima,Surco,-12.1383,-72.737611,user5388@mail.com,
+REQ-1182,CI-186,OF-001,email,reclamo,OTRA,semaforos,2024-03-14 16:00:00,2024-03-18 06:00:00,en_proceso,media,2.0,229.0,233.55,Lima,Lima,Surco,-14.01412,-75.91695,user1703@mail.com,86.0
+REQ-1515,CI-408,OF-003,callcenter,solicitud,seguridad,iluminacion,2024-03-14 05:00:00,2024-03-21 10:00:00,en_proceso,baja,2.0,101.0,155.57,Lima,Lima,Surco,-13.532643,-73.915038,user9082@mail.com,173.0
+REQ-1150,CI-645,OF-005,callcenter,solicitud,servicios,desconocido,2024-03-13 20:00:00,2024-03-21 01:00:00,cerrado,baja,3.0,111.0,295.52,Cusco,Cusco,Wanchaq,-16.363962,-72.378439,user7645@mail.com,173.0
+REQ-1285,CI-528,OF-005,presencial,solicitud,servicios,agua,2024-03-13 17:00:00,2024-03-19 19:00:00,en_proceso,alta,1.0,17.0,57.19,Lima,Lima,Miraflores,-16.421098,-74.156019,user1083@mail.com,146.0
+REQ-1394,CI-564,OF-003,presencial,queja,seguridad,ruidos,2024-03-11 17:00:00,2024-03-17 17:00:00,anulado,alta,4.0,215.0,291.24,Lima,Lima,Surco,-13.00308,-71.609001,user576@mail.com,144.0
+REQ-1293,CI-955,OF-003,presencial,consulta,seguridad,ruidos,2024-03-11 09:00:00,2024-03-11 19:00:00,cerrado,baja,3.0,171.0,337.43,Lima,Lima,San Isidro,-13.537425,-71.15876,user2508@mail.com,10.0
+REQ-1300,CI-261,OF-005,email,reclamo,servicios,luz,2024-03-11 05:00:00,2024-03-17 18:00:00,cerrado,media,3.0,67.0,212.2,La Libertad,Trujillo,Victor Larco,-12.851376,-70.979387,user3216@mail.com,157.0
+REQ-1246,CI-264,OF-002,app,reclamo,salud,abastecimiento,2024-03-05 12:00:00,2024-03-11 20:00:00,abierto,alta,1.0,58.0,337.18,Lima,Lima,Surco,-17.25905,-74.887035,user9600@mail.com,152.0
+REQ-1056,CI-771,OF-004,presencial,consulta,OTRA,,2024-03-02 23:00:00,2024-03-06 09:00:00,en_proceso,baja,3.0,31.0,,Lima,Lima,Miraflores,-16.998393,-71.260958,user753@mail.com,82.0
+REQ-1064,CI-632,OF-004,web,solicitud,tributos,predial,2024-02-29 04:00:00,2024-03-01 18:00:00,en_proceso,media,1.0,237.0,36.97,Lima,Lima,Miraflores,-12.935504,-70.692723,user5634@mail.com,38.0
+REQ-1046,CI-903,OF-003,app,queja,seguridad,iluminacion,2024-02-28 12:00:00,2024-03-07 20:00:00,abierto,alta,2.0,147.0,182.39,La Libertad,Trujillo,Victor Larco,-15.649095,-77.250439,user4934@mail.com,200.0
+REQ-1258,CI-924,OF-003,presencial,queja,seguridad,iluminacion,2024-02-25 22:00:00,2024-03-06 08:00:00,en_proceso,baja,4.0,33.0,294.05,Lima,Lima,Surco,-16.805724,-74.847869,user6845@mail.com,226.0
+REQ-1513,CI-384,OF-003,web,consulta,seguridad,iluminacion,2024-02-23 22:00:00,2024-03-01 02:00:00,cerrado,baja,3.0,80.0,15.95,La Libertad,Trujillo,Victor Larco,-13.179087,-76.121358,user2916@mail.com,148.0
+REQ-1020,CI-763,OF-001,app,consulta,transporte,rutas,2024-02-23 03:00:00,2024-02-24 15:00:00,abierto,baja,4.0,30.0,34.02,Arequipa,Arequipa,Cayma,-17.291051,-74.417206,user8851@mail.com,36.0
+REQ-1004,CI-653,OF-001,web,reclamo,transporte,semaforos,2024-02-21 15:00:00,2024-02-26 19:00:00,abierto,media,1.0,43.0,132.64,Cusco,Cusco,Wanchaq,-16.42314,-71.443365,user7455@mail.com,124.0
+REQ-1427,CI-950,OF-003,email,consulta,seguridad,patrullaje,2024-02-19 18:00:00,2024-02-18 23:00:00,abierto,baja,5.0,138.0,240.44,La Libertad,Trujillo,Victor Larco,-16.629403,-70.541511,user3890@mail.com,-19.0
+REQ-1143,CI-452,OF-001,callcenter,reclamo,transporte,rutas,2024-02-18 14:00:00,2024-02-25 11:00:00,abierto,media,5.0,167.0,154.75,Lima,Lima,Surco,,,user6628@mail.com,165.0
+REQ-1431,CI-230,OF-002,app,queja,salud,vacunas,2024-02-17 14:00:00,2024-02-24 01:00:00,cerrado,critica,4.0,73.0,204.86,Lima,Lima,San Isidro,,,user7940@mail.com,155.0
+REQ-1213,CI-642,OF-004,app,consulta,tributos,predial,2024-02-16 22:00:00,2024-02-22 21:00:00,abierto,baja,3.0,230.0,288.65,Lima,Lima,Surco,-14.237097,-72.950334,user742@mail.com,143.0
+REQ-1444,CI-177,OF-004,email,queja,tributos,arbitrios,2024-02-16 09:00:00,2024-02-24 04:00:00,en_proceso,alta,4.0,1.0,72.57,Lima,Lima,Surco,-17.849188,-75.093931,user567@mail.com,187.0
+REQ-1127,CI-830,OF-005,email,consulta,servicios,limpieza,2024-02-14 11:00:00,2024-02-19 13:00:00,cerrado,critica,4.0,131.0,97.61,Cusco,Cusco,Wanchaq,-17.476154,-76.243791,user8148@mail.com,122.0
+REQ-1341,CI-112,OF-001,web,queja,transporte,rutas,2024-02-10 14:00:00,2024-02-15 16:00:00,en_proceso,media,1.0,216.0,148.74,Lima,Lima,San Isidro,-16.331677,-76.21046,user5890@mail.com,122.0
+REQ-1255,,OF-001,presencial,consulta,transporte,desconocido,2024-02-04 07:00:00,2024-02-08 07:00:00,cerrado,media,2.0,37.0,209.56,Arequipa,Arequipa,Cayma,-13.72083,-70.562497,user6928@mail.com,96.0
+REQ-1304,CI-994,OF-001,app,consulta,transporte,rutas,2024-02-04 05:00:00,2024-02-08 00:00:00,cerrado,baja,3.0,222.0,305.71,Lima,Lima,San Isidro,-15.498029,-76.438288,user6047@mail.com,91.0
+REQ-1091,CI-571,OF-001,email,reclamo,OTRA,baches,2024-02-03 21:00:00,2024-02-07 05:00:00,cerrado,baja,1.0,191.0,328.1,Arequipa,Arequipa,Cayma,-17.381652,-74.168934,user4896@mail.com,80.0
+REQ-1481,CI-837,OF-005,callcenter,consulta,servicios,desconocido,2024-02-02 08:00:00,2024-02-10 14:00:00,anulado,media,2.0,193.0,74.38,Cusco,Cusco,Wanchaq,-13.672843,-75.070769,user8348@mail.com,198.0
+REQ-1409,CI-853,OF-001,app,consulta,transporte,semaforos,2024-02-02 02:00:00,2024-02-02 04:00:00,en_proceso,baja,2.0,94.0,16.25,La Libertad,Trujillo,Victor Larco,-14.698032,-76.177751,,2.0
+REQ-1167,CI-208,OF-004,web,reclamo,tributos,arbitrios,2024-01-28 08:00:00,2024-01-30 17:00:00,cerrado,media,,171.0,47.51,Arequipa,Arequipa,Cayma,-13.955227,-74.072371,user5453@mail.com,57.0
+REQ-1170,CI-863,OF-004,web,solicitud,tributos,multas,2024-01-27 08:00:00,2024-02-03 02:00:00,cerrado,baja,1.0,30.0,28.92,Cusco,Cusco,Wanchaq,-13.902558,-70.323694,,162.0
+REQ-1326,CI-137,OF-003,email,reclamo,seguridad,desconocido,2024-01-25 10:00:00,2024-01-27 16:00:00,en_proceso,media,4.0,167.0,306.91,Lima,Lima,Surco,,,user4622@mail.com,54.0
+REQ-1470,CI-979,OF-003,web,reclamo,seguridad,patrullaje,2024-01-23 16:00:00,2024-01-30 14:00:00,anulado,media,,67.0,14.18,La Libertad,Trujillo,Victor Larco,,,,166.0
+REQ-1462,CI-757,OF-002,callcenter,reclamo,salud,abastecimiento,2024-01-23 03:00:00,2024-01-31 15:00:00,abierto,baja,5.0,66.0,117.44,Cusco,Cusco,Wanchaq,-13.648858,-75.500691,user3549@mail.com,204.0
+REQ-1129,CI-120,OF-004,email,queja,tributos,arbitrios,2024-01-22 18:00:00,2024-01-26 22:00:00,en_proceso,baja,4.0,26.0,241.8,Lima,Lima,San Isidro,-15.949018,-73.975083,user5564@mail.com,100.0
+REQ-1473,CI-256,OF-005,email,solicitud,servicios,agua,2024-01-22 02:00:00,2024-01-29 21:00:00,abierto,baja,,62.0,81.73,Lima,Lima,Surco,,,,187.0
+REQ-1336,CI-434,OF-005,presencial,solicitud,servicios,limpieza,2024-01-21 08:00:00,2024-01-27 04:00:00,en_proceso,media,5.0,207.0,320.3,La Libertad,Trujillo,Victor Larco,-11.665786,-74.937552,user9004@mail.com,140.0
+REQ-1044,CI-358,OF-003,callcenter,solicitud,seguridad,patrullaje,2024-01-18 12:00:00,2024-01-23 10:00:00,en_proceso,critica,2.0,118.0,239.41,Lima,Lima,Miraflores,-13.819971,-70.776028,user520@mail.com,118.0
+REQ-1420,CI-471,OF-003,presencial,consulta,seguridad,ruidos,2024-01-18 02:00:00,2024-01-26 12:00:00,en_proceso,baja,2.0,45.0,64.25,,Lima,Surco,-18.142227,-77.543394,user3005@mail.com,202.0
+REQ-1337,CI-202,OF-005,email,consulta,servicios,luz,2024-01-17 19:00:00,2024-01-18 10:00:00,en_proceso,baja,1.0,153.0,229.62,Arequipa,Arequipa,Cayma,-16.182411,-77.277019,user8690@mail.com,15.0
+REQ-1220,CI-792,OF-999,email,consulta,seguridad,ruidos,2024-01-16 18:00:00,2024-01-23 17:00:00,abierto,baja,,206.0,214.9,La Libertad,Trujillo,Victor Larco,-15.712603,-73.05934,user7736@mail.com,167.0
+REQ-1476,CI-832,OF-003,app,queja,seguridad,ruidos,2024-01-13 11:00:00,2024-01-19 21:00:00,en_proceso,media,5.0,160.0,284.16,Lima,Lima,San Isidro,-16.67974,-75.929108,user5639@mail.com,154.0
+REQ-1352,CI-482,OF-005,callcenter,reclamo,servicios,,2024-01-06 12:00:00,2024-01-07 07:00:00,abierto,media,4.0,146.0,329.2,Lima,Lima,Miraflores,-13.88436,-74.919949,user7021@mail.com,19.0
+REQ-1249,CI-371,OF-004,callcenter,consulta,tributos,arbitrios,2024-01-06 05:00:00,2024-01-08 01:00:00,en_proceso,baja,5.0,80.0,318.09,La Libertad,Trujillo,Victor Larco,-13.896538,-75.834167,user9174@mail.com,44.0
+REQ-1079,CI-420,OF-002,presencial,solicitud,salud,vacunas,2024-01-04 04:00:00,2024-01-11 10:00:00,cerrado,alta,4.0,115.0,125.56,Lima,Lima,Surco,,,user9939@mail.com,174.0
+REQ-1384,CI-897,OF-005,callcenter,reclamo,servicios,agua,2024-01-02 12:00:00,2024-01-05 15:00:00,abierto,baja,5.0,50.0,288.91,Arequipa,Arequipa,Cayma,-13.744725,-70.425176,user4821@mail.com,75.0
+REQ-1231,CI-259,OF-005,email,reclamo,servicios,limpieza,2023-12-27 18:00:00,2024-01-01 09:00:00,en_proceso,alta,3.0,143.0,260.42,Lima,Lima,San Isidro,,,user6201@mail.com,111.0
+REQ-1284,CI-664,OF-004,web,solicitud,tributos,predial,2023-12-27 10:00:00,2023-12-29 12:00:00,en_proceso,media,1.0,26.0,51.08,La Libertad,Trujillo,Victor Larco,-14.437346,-77.961017,,50.0
+REQ-1509,CI-814,OF-005,callcenter,solicitud,servicios,luz,2023-12-26 22:00:00,2024-01-05 11:00:00,cerrado,baja,5.0,110.0,230.08,Lima,Lima,Surco,-15.409259,-76.03432,user9437@mail.com,229.0
+REQ-1466,CI-133,OF-001,app,queja,transporte,semaforos,2023-12-25 18:00:00,2023-12-26 02:00:00,abierto,alta,,146.0,210.57,La Libertad,Trujillo,Victor Larco,-14.279822,-71.647233,user1333@mail.com,8.0
+REQ-1510,CI-533,OF-005,presencial,reclamo,servicios,limpieza,2023-12-22 07:00:00,2023-12-24 19:00:00,en_proceso,baja,3.0,24.0,292.17,La Libertad,Trujillo,Victor Larco,,,user3144@mail.com,60.0
+REQ-1088,CI-685,OF-004,web,queja,tributos,predial,2023-12-18 07:00:00,2023-12-21 16:00:00,en_proceso,baja,3.0,155.0,225.63,Lima,Lima,Surco,-12.252465,-71.471234,user5951@mail.com,81.0
+REQ-1499,CI-217,OF-004,email,reclamo,tributos,arbitrios,2023-12-14 02:00:00,2023-12-23 19:00:00,en_proceso,alta,5.0,29.0,294.65,Lima,Lima,San Isidro,-13.608434,-77.749569,user878@mail.com,233.0
+REQ-1094,CI-206,OF-002,presencial,solicitud,salud,abastecimiento,2023-12-12 21:00:00,2023-12-14 14:00:00,en_proceso,media,3.0,232.0,110.3,Lima,Lima,Surco,-12.539478,-74.78891,user7055@mail.com,41.0
+REQ-1425,,OF-003,app,solicitud,seguridad,patrullaje,2023-12-12 01:00:00,2023-12-14 12:00:00,cerrado,media,4.0,152.0,178.22,Lima,Lima,San Isidro,-18.018767,-74.152577,user7210@mail.com,59.0
+REQ-1377,CI-284,OF-001,app,solicitud,transporte,semaforos,2023-12-10 21:00:00,2023-12-13 16:00:00,cerrado,baja,5.0,87.0,33.98,Lima,Lima,San Isidro,-13.350196,-76.492682,user8820@mail.com,67.0
+REQ-1474,CI-826,OF-002,callcenter,queja,salud,abastecimiento,2023-12-05 10:00:00,2023-12-08 02:00:00,cerrado,baja,1.0,84.0,187.1,Lima,Lima,Surco,-15.12781,-70.887399,user9584@mail.com,64.0
+REQ-1504,CI-216,OF-002,app,queja,salud,vacunas,2023-12-04 19:00:00,2023-12-07 05:00:00,en_proceso,baja,3.0,13.0,131.99,La Libertad,Trujillo,Victor Larco,-17.227469,-77.65231,user8901@mail.com,58.0
+REQ-1348,CI-188,OF-005,email,consulta,servicios,limpieza,2023-12-02 22:00:00,2023-12-06 02:00:00,abierto,media,5.0,134.0,163.91,Arequipa,Arequipa,Cayma,-14.479269,-76.579953,user6753@mail.com,76.0
+REQ-1193,CI-987,OF-003,web,reclamo,seguridad,patrullaje,2023-12-02 04:00:00,2023-12-04 13:00:00,abierto,media,2.0,69.0,95.78,Lima,Lima,San Isidro,-11.813363,-75.36302,user9036@mail.com,57.0
+REQ-1327,CI-382,OF-002,app,consulta,salud,abastecimiento,2023-12-01 17:00:00,2023-12-05 15:00:00,en_proceso,alta,2.0,55.0,,Lima,Lima,Surco,,,user2559@mail.com,94.0
+REQ-1036,CI-582,OF-001,presencial,reclamo,transporte,rutas,2023-11-29 21:00:00,2023-12-05 00:00:00,en_proceso,baja,2.0,118.0,319.24,Lima,Lima,Surco,-14.539969,-72.417183,user4332@mail.com,123.0
+REQ-1447,CI-990,OF-003,app,queja,seguridad,ruidos,2023-11-29 16:00:00,2023-12-04 06:00:00,cerrado,media,5.0,199.0,278.87,Lima,Lima,,-12.27992,-73.62581,,110.0
+REQ-1095,CI-509,OF-005,presencial,queja,servicios,limpieza,2023-11-29 15:00:00,2023-12-01 12:00:00,en_proceso,alta,5.0,210.0,317.68,Arequipa,Arequipa,Cayma,-13.896894,-78.163656,user9442@mail.com,45.0
+REQ-1459,CI-722,OF-001,web,reclamo,transporte,desconocido,2023-11-28 00:00:00,2023-11-29 22:00:00,cerrado,baja,1.0,187.0,252.7,Lima,Lima,,,,user4442@mail.com,46.0
+REQ-1454,CI-341,OF-001,presencial,reclamo,transporte,semaforos,2023-11-27 10:00:00,2023-12-01 02:00:00,cerrado,media,3.0,113.0,236.64,Lima,Lima,Miraflores,-15.804908,-72.706633,user8599@mail.com,88.0
+REQ-1274,CI-867,OF-003,presencial,solicitud,seguridad,patrullaje,2023-11-27 09:00:00,,cerrado,alta,2.0,158.0,143.71,Lima,Lima,Miraflores,-13.618381,-73.159138,user463@mail.com,
+REQ-1244,CI-749,OF-001,presencial,reclamo,transporte,baches,2023-11-27 00:00:00,2023-12-03 03:00:00,en_proceso,alta,2.0,161.0,304.33,Arequipa,Arequipa,Cayma,-15.482099,-69.565711,user7426@mail.com,147.0
+REQ-1147,CI-127,OF-001,callcenter,solicitud,transporte,semaforos,2023-11-24 04:00:00,2023-11-28 14:00:00,cerrado,baja,1.0,106.0,70.9,Arequipa,Arequipa,Cayma,,,user8265@mail.com,106.0
+REQ-1485,CI-873,OF-001,web,consulta,transporte,semaforos,2023-11-23 04:00:00,2023-11-30 14:00:00,cerrado,media,4.0,51.0,0.38,Arequipa,Arequipa,Cayma,-17.788094,-74.516732,user1359@mail.com,178.0
+REQ-1305,CI-883,OF-003,presencial,consulta,seguridad,ruidos,2023-11-19 22:00:00,2023-11-21 06:00:00,en_proceso,baja,2.0,207.0,,Lima,Lima,Miraflores,-13.434253,-74.407305,user7643@mail.com,32.0
+REQ-1128,CI-410,OF-002,app,solicitud,salud,citas,2023-11-16 22:00:00,2023-11-21 02:00:00,en_proceso,baja,4.0,169.0,193.82,Arequipa,Arequipa,Cayma,-14.366191,-74.216801,user2561@mail.com,100.0
+REQ-1152,CI-348,OF-002,web,queja,salud,citas,2023-11-16 18:00:00,2023-11-21 10:00:00,en_proceso,media,3.0,80.0,-50.0,,Arequipa,Cayma,-13.004179,-77.173318,user5058@mail.com,112.0
+REQ-1294,CI-665,OF-003,web,solicitud,seguridad,patrullaje,2023-11-16 13:00:00,2023-11-17 13:00:00,cerrado,baja,1.0,36.0,24.06,Arequipa,Arequipa,Cayma,-18.173137,-70.477379,user697@mail.com,24.0
+REQ-1469,CI-271,OF-003,presencial,solicitud,seguridad,ruidos,2023-11-16 02:00:00,2023-11-16 03:00:00,abierto,baja,4.0,185.0,283.05,La Libertad,Trujillo,Victor Larco,-15.074151,-73.614769,user4521@mail.com,1.0
+REQ-1011,CI-477,OF-002,email,queja,salud,citas,2023-11-15 03:00:00,2023-11-21 08:00:00,abierto,baja,4.0,102.0,329.51,Lima,Lima,San Isidro,-17.690824,-72.28447,user3979@mail.com,149.0
+REQ-1500,CI-668,OF-005,web,reclamo,servicios,limpieza,2023-11-14 20:00:00,2023-11-18 13:00:00,cerrado,baja,,89.0,139.92,Cusco,Cusco,Wanchaq,-17.883553,-72.662834,user779@mail.com,89.0
+REQ-1235,CI-488,OF-001,web,consulta,transporte,semaforos,2023-11-13 06:00:00,2023-11-15 16:00:00,abierto,media,1.0,167.0,68.93,Cusco,Cusco,Wanchaq,-15.122545,-70.285677,user200@mail.com,58.0
+REQ-1328,CI-608,OF-005,app,consulta,servicios,luz,2023-11-12 19:00:00,2023-11-13 12:00:00,en_proceso,media,3.0,96.0,99.77,Lima,Lima,San Isidro,-11.86334,-76.238469,user1744@mail.com,17.0
+REQ-1434,CI-882,OF-003,web,consulta,seguridad,patrullaje,2023-11-11 15:00:00,2023-11-14 09:00:00,abierto,baja,,19.0,229.83,Cusco,Cusco,Wanchaq,-13.77481,-75.658263,user6631@mail.com,66.0
+REQ-1325,CI-847,OF-005,callcenter,queja,servicios,agua,2023-11-07 06:00:00,2023-11-12 09:00:00,en_proceso,alta,5.0,50.0,19.84,Lima,Lima,San Isidro,-12.091915,-73.311057,user7703@mail.com,123.0
+REQ-1432,CI-725,OF-002,callcenter,solicitud,salud,citas,2023-11-05 03:00:00,2023-11-07 19:00:00,en_proceso,baja,5.0,222.0,282.62,Arequipa,Arequipa,Cayma,-12.75224,-77.639189,user3280@mail.com,64.0
+REQ-1456,CI-757,OF-002,presencial,reclamo,salud,,2023-11-04 02:00:00,2023-11-08 03:00:00,cerrado,media,,141.0,121.44,La Libertad,Trujillo,Victor Larco,-16.49626,-76.27305,user7092@mail.com,97.0
+REQ-1144,CI-695,OF-005,email,reclamo,servicios,luz,2023-11-03 09:00:00,2023-11-10 12:00:00,cerrado,media,2.0,183.0,132.18,La Libertad,Trujillo,Victor Larco,-16.540857,-75.549377,user9542@mail.com,171.0
+REQ-1371,CI-655,OF-005,callcenter,queja,servicios,agua,2023-10-31 05:00:00,2023-11-02 06:00:00,cerrado,baja,2.0,9.0,300.29,Lima,Lima,San Isidro,-16.122817,-75.865204,user4344@mail.com,49.0
+REQ-1118,CI-809,OF-004,presencial,reclamo,tributos,arbitrios,2023-10-30 07:00:00,2023-11-06 05:00:00,anulado,baja,3.0,42.0,246.16,Arequipa,Arequipa,Cayma,-13.193179,-78.280279,user7453@mail.com,166.0
+REQ-1278,CI-712,OF-004,presencial,reclamo,tributos,multas,2023-10-30 06:00:00,2023-11-06 14:00:00,cerrado,media,5.0,83.0,71.56,Cusco,Cusco,Wanchaq,-14.302282,-76.93926,user4776@mail.com,176.0
+REQ-1273,CI-198,OF-002,web,queja,salud,citas,2023-10-30 03:00:00,2023-11-01 09:00:00,abierto,alta,1.0,18.0,88.7,Lima,Lima,Miraflores,-15.373153,-75.282371,user6603@mail.com,54.0
+REQ-1154,CI-539,OF-002,web,reclamo,salud,abastecimiento,2023-10-29 04:00:00,2023-11-01 16:00:00,abierto,media,3.0,224.0,44.26,Arequipa,Arequipa,Cayma,-11.711825,-70.527491,user3429@mail.com,84.0
+REQ-1479,CI-580,OF-004,callcenter,solicitud,tributos,multas,2023-10-28 18:00:00,2023-11-02 08:00:00,abierto,baja,,74.0,247.86,Lima,Lima,,-18.054743,-74.838836,user2263@mail.com,110.0
+REQ-1491,CI-831,OF-005,email,queja,servicios,luz,2023-10-26 18:00:00,2023-11-02 00:00:00,abierto,baja,5.0,28.0,47.45,Lima,Lima,Surco,-14.029338,-74.17755,user2496@mail.com,150.0
+REQ-1487,CI-566,OF-005,presencial,reclamo,servicios,luz,2023-10-23 16:00:00,2023-10-29 01:00:00,cerrado,baja,1.0,154.0,65.41,Lima,Lima,Surco,-14.377951,-74.252057,user1496@mail.com,129.0
+REQ-1329,CI-573,OF-002,callcenter,queja,salud,citas,2023-10-22 11:00:00,2023-10-28 03:00:00,anulado,media,2.0,206.0,140.22,Lima,Lima,Miraflores,,,user9260@mail.com,136.0
+REQ-1008,CI-408,OF-004,email,queja,tributos,arbitrios,2023-10-21 06:00:00,,cerrado,media,3.0,120.0,154.63,La Libertad,Trujillo,Victor Larco,-16.768201,-74.241324,user2781@mail.com,
+REQ-1351,CI-550,OF-005,callcenter,queja,servicios,luz,2023-10-17 01:00:00,2023-10-25 23:00:00,en_proceso,alta,2.0,217.0,45.2,Arequipa,Arequipa,Cayma,-14.510012,-70.123247,user9665@mail.com,214.0
+REQ-1104,CI-691,OF-003,callcenter,queja,seguridad,patrullaje,2023-10-15 00:00:00,2023-10-18 15:00:00,anulado,media,2.0,147.0,211.99,Lima,Lima,San Isidro,-14.212214,-70.718657,user5051@mail.com,87.0
+REQ-1214,CI-246,OF-001,presencial,solicitud,transporte,rutas,2023-10-12 18:00:00,2023-10-22 04:00:00,cerrado,baja,3.0,43.0,41.49,Lima,Lima,Surco,-14.939541,-76.4873,user2775@mail.com,226.0
+REQ-1266,CI-372,OF-001,app,solicitud,transporte,semaforos,2023-10-10 22:00:00,2023-10-12 11:00:00,en_proceso,alta,4.0,64.0,78.17,Lima,Lima,Miraflores,-16.007664,-71.076469,user7907@mail.com,37.0
+REQ-1410,CI-195,OF-001,callcenter,queja,transporte,semaforos,2023-10-10 15:00:00,2023-10-15 03:00:00,en_proceso,critica,,130.0,287.09,Arequipa,Arequipa,Cayma,-12.925505,-70.800295,user2004@mail.com,108.0
+REQ-1429,CI-447,OF-005,presencial,solicitud,servicios,limpieza,2023-10-10 02:00:00,2023-10-10 22:00:00,en_proceso,baja,5.0,176.0,,Arequipa,Arequipa,Cayma,-12.273459,-75.036094,user1806@mail.com,20.0
+REQ-1342,CI-592,OF-005,presencial,solicitud,servicios,agua,2023-10-08 14:00:00,2023-10-15 21:00:00,abierto,baja,1.0,208.0,31.34,La Libertad,Trujillo,,-11.590479,-73.635977,user6248@mail.com,175.0
+REQ-1349,CI-255,OF-004,email,queja,tributos,arbitrios,2023-10-07 17:00:00,2023-10-12 09:00:00,abierto,media,,151.0,191.78,La Libertad,Trujillo,Victor Larco,-11.523746,-70.481038,user8880@mail.com,112.0
+REQ-1386,CI-246,OF-004,app,reclamo,tributos,arbitrios,2023-10-05 17:00:00,2023-10-12 14:00:00,en_proceso,baja,3.0,143.0,112.34,La Libertad,Trujillo,Victor Larco,-16.047766,-75.577484,user2965@mail.com,165.0
+REQ-1226,CI-881,OF-005,web,solicitud,servicios,luz,2023-10-03 18:00:00,2023-10-08 01:00:00,en_proceso,baja,2.0,237.0,105.2,Arequipa,Arequipa,Cayma,-11.732921,-70.014383,,103.0
+REQ-1382,CI-239,OF-005,email,queja,servicios,luz,2023-10-02 20:00:00,2023-10-07 22:00:00,abierto,media,,152.0,345.96,Lima,Lima,Surco,-17.778375,-74.559145,user6494@mail.com,122.0
+REQ-1381,CI-271,OF-001,email,queja,transporte,rutas,2023-09-30 07:00:00,2023-10-08 13:00:00,abierto,baja,5.0,114.0,334.78,Lima,Lima,Miraflores,,,user1814@mail.com,198.0
+REQ-1318,CI-478,OF-003,web,solicitud,seguridad,ruidos,2023-09-27 12:00:00,2023-10-06 14:00:00,en_proceso,baja,3.0,194.0,170.72,La Libertad,Trujillo,Victor Larco,-16.275058,-76.144637,user125@mail.com,218.0
+REQ-1489,CI-799,OF-001,email,reclamo,transporte,semaforos,2023-09-26 22:00:00,2023-09-29 07:00:00,cerrado,media,1.0,57.0,269.61,Cusco,Cusco,Wanchaq,-17.058362,-70.25429,user406@mail.com,57.0
+REQ-1347,CI-936,OF-005,presencial,reclamo,servicios,limpieza,2023-09-26 22:00:00,2023-10-01 18:00:00,abierto,baja,4.0,19.0,136.32,Arequipa,Arequipa,Cayma,-12.007887,-71.346428,user6114@mail.com,116.0
+REQ-1364,CI-823,OF-001,app,solicitud,transporte,rutas,2023-09-26 17:00:00,2023-09-26 10:00:00,en_proceso,media,2.0,84.0,154.92,Lima,Lima,Surco,-17.322138,-76.611618,user3551@mail.com,-7.0
+REQ-1199,CI-443,OF-004,app,consulta,tributos,multas,2023-09-21 21:00:00,2023-09-20 18:00:00,en_proceso,media,3.0,78.0,248.56,Arequipa,Arequipa,Cayma,-13.010674,-70.787395,user9761@mail.com,-27.0
+REQ-1180,CI-899,OF-005,web,solicitud,servicios,limpieza,2023-09-21 20:00:00,2023-09-28 15:00:00,cerrado,baja,4.0,57.0,,Lima,Lima,San Isidro,,,user6480@mail.com,163.0
+REQ-1291,CI-232,OF-003,presencial,consulta,seguridad,ruidos,2023-09-21 13:00:00,2023-09-23 07:00:00,,baja,2.0,93.0,34.16,Lima,Lima,Surco,-16.126401,-73.619124,user8990@mail.com,42.0
+REQ-1281,CI-546,OF-004,app,queja,tributos,arbitrios,2023-09-19 11:00:00,2023-09-21 22:00:00,en_proceso,alta,3.0,123.0,55.33,Lima,Lima,San Isidro,-12.480565,-72.694919,user9816@mail.com,59.0
+REQ-1066,CI-762,OF-002,email,queja,salud,citas,2023-09-16 19:00:00,2023-09-25 10:00:00,cerrado,media,3.0,109.0,313.42,Lima,Lima,Surco,-15.124713,-76.536119,user4951@mail.com,207.0
+REQ-1297,CI-164,OF-005,web,reclamo,servicios,luz,2023-09-16 07:00:00,2023-09-24 09:00:00,anulado,alta,5.0,9999.0,279.65,Arequipa,Arequipa,Cayma,-12.023756,-72.852326,user8657@mail.com,194.0
+REQ-1317,CI-654,OF-002,callcenter,consulta,salud,vacunas,2023-09-15 05:00:00,2023-09-25 05:00:00,en_proceso,media,4.0,51.0,49.12,Arequipa,Arequipa,Cayma,-16.229102,-72.755289,user2181@mail.com,240.0
+REQ-1446,CI-437,OF-005,callcenter,consulta,servicios,agua,2023-09-15 00:00:00,2023-09-15 02:00:00,cerrado,baja,4.0,112.0,259.46,Lima,Lima,San Isidro,-17.278947,-76.762023,user9693@mail.com,2.0
+REQ-1260,CI-675,OF-005,app,consulta,servicios,limpieza,2023-09-13 03:00:00,2023-09-20 05:00:00,cerrado,alta,1.0,194.0,13.78,Cusco,Cusco,Wanchaq,-15.032152,-74.20808,user327@mail.com,170.0
+REQ-1335,CI-836,OF-004,web,consulta,tributos,predial,2023-09-12 01:00:00,2023-09-21 21:00:00,en_proceso,media,,103.0,116.36,La Libertad,Trujillo,Victor Larco,-18.053063,-77.00984,user4562@mail.com,236.0
+REQ-1026,CI-930,OF-003,web,reclamo,seguridad,patrullaje,2023-09-11 22:00:00,2023-09-16 15:00:00,anulado,media,5.0,41.0,127.36,Lima,Lima,Surco,-15.604309,-71.529817,user9796@mail.com,113.0
+REQ-1003,CI-482,OF-004,email,solicitud,tributos,predial,2023-09-11 07:00:00,2023-09-12 00:00:00,en_proceso,media,2.0,151.0,77.08,Lima,Lima,Miraflores,-13.457466,-77.970136,user1105@mail.com,17.0
+REQ-1142,CI-225,OF-002,app,solicitud,salud,citas,2023-09-09 15:00:00,2023-09-13 07:00:00,en_proceso,baja,3.0,96.0,250.32,Cusco,Cusco,Wanchaq,-15.783689,-72.515043,user2484@mail.com,88.0
+REQ-1401,CI-324,OF-002,app,queja,salud,citas,2023-09-08 14:00:00,2023-09-09 12:00:00,cerrado,media,1.0,82.0,32.36,Arequipa,Arequipa,Cayma,,,user4246@mail.com,22.0
+REQ-1001,CI-314,OF-003,web,reclamo,seguridad,ruidos,2023-09-08 05:00:00,2023-09-13 04:00:00,en_proceso,critica,5.0,57.0,239.61,Lima,Lima,Miraflores,,,user5169@mail.com,119.0
+REQ-1518,CI-117,OF-003,callcenter,solicitud,seguridad,ruidos,2023-09-05 19:00:00,2023-09-11 12:00:00,en_proceso,alta,,65.0,19.18,Lima,Lima,Miraflores,-16.750914,-77.705845,user6366@mail.com,137.0
+REQ-1308,CI-637,OF-003,callcenter,queja,seguridad,patrullaje,2023-09-05 09:00:00,2023-09-14 23:00:00,en_proceso,alta,4.0,200.0,67.92,Lima,Lima,Surco,-16.609248,-70.734497,user9016@mail.com,230.0
+REQ-1054,CI-902,OF-002,app,solicitud,OTRA,citas,2023-09-04 15:00:00,2023-09-11 11:00:00,en_proceso,media,1.0,93.0,326.87,Lima,Lima,San Isidro,-15.608184,-70.94924,user6896@mail.com,164.0
+REQ-1354,CI-419,OF-002,app,queja,salud,citas,2023-09-04 13:00:00,,cerrado,baja,1.0,,-50.0,Cusco,Cusco,Wanchaq,,,user1274@mail.com,
+REQ-1031,CI-794,OF-004,web,reclamo,tributos,predial,2023-08-30 20:00:00,2023-09-03 18:00:00,en_proceso,alta,1.0,155.0,53.7,Cusco,Cusco,Wanchaq,-11.842882,-75.15188,user1260@mail.com,94.0
+REQ-1490,CI-227,OF-003,presencial,solicitud,seguridad,ruidos,2023-08-27 15:00:00,2023-09-01 00:00:00,cerrado,baja,1.0,194.0,254.97,Cusco,Cusco,Wanchaq,-12.757627,-74.655733,user1611@mail.com,105.0
+REQ-1057,CI-161,OF-002,callcenter,queja,salud,citas,2023-08-26 16:00:00,2023-08-31 02:00:00,cerrado,baja,1.0,149.0,33.45,Lima,Lima,San Isidro,-13.930655,-74.950838,user9698@mail.com,106.0
+REQ-1053,CI-980,OF-004,presencial,solicitud,tributos,predial,2023-08-23 12:00:00,,cerrado,baja,3.0,,308.35,Lima,Lima,San Isidro,-15.635769,-71.179689,user2182@mail.com,
+REQ-1069,CI-868,OF-002,presencial,solicitud,salud,desconocido,2023-08-22 07:00:00,2023-08-30 02:00:00,anulado,baja,1.0,151.0,176.62,Lima,Lima,Miraflores,-15.743837,-72.645137,user613@mail.com,187.0
+REQ-1430,CI-710,OF-001,email,queja,transporte,semaforos,2023-08-17 14:00:00,2023-08-21 12:00:00,abierto,baja,3.0,146.0,157.97,La Libertad,Trujillo,Victor Larco,-17.806048,-73.009596,user7355@mail.com,94.0
+REQ-1286,CI-920,OF-003,web,reclamo,seguridad,ruidos,2023-08-17 07:00:00,2023-08-26 17:00:00,anulado,media,2.0,238.0,34.51,Arequipa,Arequipa,Cayma,-14.810847,-74.786195,user6552@mail.com,226.0
+REQ-1067,CI-825,OF-005,presencial,consulta,servicios,limpieza,2023-08-16 21:00:00,2023-08-22 14:00:00,cerrado,media,3.0,130.0,105.07,Lima,Lima,San Isidro,-12.567721,-70.611547,user2968@mail.com,137.0
+REQ-1458,CI-174,OF-002,app,solicitud,salud,abastecimiento,2023-08-15 13:00:00,2023-08-20 18:00:00,en_proceso,media,1.0,122.0,302.49,Arequipa,Arequipa,Cayma,-17.716482,-77.152521,user4988@mail.com,125.0
+REQ-1423,,OF-003,web,solicitud,seguridad,patrullaje,2023-08-13 08:00:00,2023-08-17 01:00:00,en_proceso,baja,2.0,129.0,288.37,Arequipa,Arequipa,Cayma,-16.48796,-73.367547,user177@mail.com,89.0
+REQ-1439,CI-108,OF-005,email,queja,servicios,agua,2023-08-10 18:00:00,2023-08-11 06:00:00,en_proceso,critica,1.0,207.0,259.27,La Libertad,Trujillo,Victor Larco,-18.006956,-75.216472,user382@mail.com,12.0
+REQ-1494,CI-660,OF-004,presencial,solicitud,tributos,arbitrios,2023-08-10 13:00:00,2023-08-14 18:00:00,cerrado,media,,40.0,10.25,La Libertad,Trujillo,Victor Larco,-12.763593,-74.24514,user8594@mail.com,101.0
+REQ-1221,CI-756,OF-002,web,reclamo,salud,citas,2023-08-10 08:00:00,2023-08-12 06:00:00,en_proceso,baja,5.0,151.0,225.69,Cusco,Cusco,Wanchaq,-15.987927,-71.552192,user9703@mail.com,46.0
+REQ-1373,CI-935,OF-004,presencial,reclamo,tributos,predial,2023-08-10 08:00:00,2023-08-18 00:00:00,cerrado,alta,1.0,33.0,189.06,Cusco,Cusco,Wanchaq,-17.743721,-69.750151,user9528@mail.com,184.0
+REQ-1209,CI-126,OF-005,callcenter,consulta,servicios,limpieza,2023-08-10 00:00:00,2023-08-13 16:00:00,cerrado,media,4.0,201.0,255.23,La Libertad,Trujillo,Victor Larco,-13.158915,-71.23343,user9066@mail.com,88.0
+REQ-1508,CI-510,OF-005,web,queja,servicios,agua,2023-08-09 19:00:00,2023-08-14 20:00:00,abierto,media,1.0,123.0,242.34,Lima,Lima,Miraflores,-14.991894,-76.462734,user4813@mail.com,121.0
+REQ-1280,CI-545,OF-005,email,solicitud,servicios,luz,2023-08-07 07:00:00,2023-08-08 09:00:00,cerrado,media,4.0,114.0,52.63,Cusco,Cusco,Wanchaq,-12.501071,-71.743752,user378@mail.com,26.0
+REQ-1464,CI-301,OF-005,presencial,consulta,servicios,luz,2023-08-06 21:00:00,2023-08-09 23:00:00,en_proceso,baja,4.0,74.0,234.06,Lima,Lima,Miraflores,-15.433176,-77.588587,user8822@mail.com,74.0
+REQ-1052,CI-914,OF-005,app,reclamo,OTRA,luz,2023-08-05 15:00:00,2023-08-08 12:00:00,en_proceso,baja,5.0,148.0,,Cusco,Cusco,Wanchaq,,,user794@mail.com,69.0
+REQ-1156,CI-986,OF-004,presencial,reclamo,tributos,multas,2023-08-03 15:00:00,2023-08-06 03:00:00,en_proceso,alta,4.0,185.0,285.04,Lima,Lima,Surco,,,user3078@mail.com,60.0
+REQ-1171,CI-421,OF-001,web,reclamo,transporte,rutas,2023-07-31 20:00:00,2023-08-02 14:00:00,abierto,baja,1.0,22.0,342.97,Arequipa,Arequipa,Cayma,-16.199528,-69.803515,user2812@mail.com,42.0
+REQ-1051,CI-747,OF-004,presencial,reclamo,tributos,predial,2023-07-31 01:00:00,2023-08-06 03:00:00,en_proceso,baja,5.0,44.0,113.28,La Libertad,Trujillo,Victor Larco,-16.239348,-73.34538,user8429@mail.com,146.0
+REQ-1457,CI-495,OF-001,email,consulta,transporte,rutas,2023-07-28 22:00:00,2023-08-03 03:00:00,cerrado,baja,2.0,-5.0,283.63,Lima,Lima,San Isidro,-14.608703,-75.90246,user3955@mail.com,125.0
+REQ-1411,CI-166,OF-004,web,queja,tributos,arbitrios,2023-07-28 01:00:00,2023-08-05 21:00:00,en_proceso,baja,4.0,207.0,92.25,La Libertad,Trujillo,Victor Larco,-14.979415,-69.545829,user3767@mail.com,212.0
+REQ-1245,CI-623,OF-002,presencial,reclamo,salud,citas,2023-07-23 23:00:00,2023-07-31 22:00:00,en_proceso,media,2.0,145.0,300.97,Arequipa,Arequipa,Cayma,-17.885132,-73.701594,user8839@mail.com,191.0
+REQ-1025,CI-251,OF-002,web,reclamo,salud,vacunas,2023-07-22 05:00:00,2023-07-28 16:00:00,abierto,alta,1.0,46.0,332.95,La Libertad,Trujillo,Victor Larco,-14.889416,-71.709988,user9495@mail.com,155.0
+REQ-1438,CI-843,OF-001,email,reclamo,transporte,rutas,2023-07-21 02:00:00,2023-07-25 20:00:00,cerrado,baja,1.0,211.0,216.16,,Lima,Surco,-13.314396,-73.310788,user6902@mail.com,114.0
+REQ-1406,CI-286,OF-001,presencial,consulta,transporte,baches,2023-07-20 21:00:00,2023-07-28 21:00:00,en_proceso,alta,,64.0,302.12,Lima,Lima,Miraflores,-13.454838,-78.041381,user8649@mail.com,192.0
+REQ-1316,CI-657,OF-004,app,solicitud,tributos,arbitrios,2023-07-20 17:00:00,2023-07-28 22:00:00,anulado,baja,5.0,116.0,96.22,Lima,Lima,Miraflores,-11.744392,-77.92867,user7560@mail.com,197.0
+REQ-1073,CI-834,OF-004,web,consulta,tributos,multas,2023-07-20 06:00:00,2023-07-21 13:00:00,cerrado,baja,4.0,212.0,273.5,La Libertad,Trujillo,Victor Larco,-15.935845,-71.685656,user762@mail.com,31.0
+REQ-1050,CI-154,OF-003,web,solicitud,seguridad,patrullaje,2023-07-19 12:00:00,2023-07-25 12:00:00,en_proceso,media,4.0,107.0,248.55,Cusco,Cusco,Wanchaq,-14.925713,-77.755964,user506@mail.com,144.0
+REQ-1042,CI-152,OF-003,app,queja,seguridad,patrullaje,2023-07-12 18:00:00,2023-07-20 12:00:00,cerrado,baja,,223.0,317.46,Lima,Lima,Surco,-11.787968,-78.361997,user3114@mail.com,186.0
+REQ-1060,CI-128,OF-003,email,reclamo,seguridad,ruidos,2023-07-12 15:00:00,2023-07-18 10:00:00,en_proceso,media,1.0,15.0,81.42,Lima,Lima,San Isidro,-18.066482,-74.198099,user5436@mail.com,139.0
+REQ-1197,CI-494,OF-004,email,reclamo,tributos,arbitrios,2023-07-12 02:00:00,2023-07-15 02:00:00,en_proceso,media,5.0,166.0,99999.99,Cusco,Cusco,Wanchaq,-12.329485,-71.794766,user3942@mail.com,72.0
+REQ-1090,CI-378,OF-003,email,consulta,seguridad,iluminacion,2023-07-12 02:00:00,2023-07-14 01:00:00,abierto,baja,4.0,159.0,158.47,La Libertad,Trujillo,Victor Larco,-14.02755,-76.809895,user318@mail.com,47.0
+REQ-1269,CI-562,OF-001,app,solicitud,transporte,semaforos,2023-07-09 03:00:00,2023-07-09 14:00:00,en_proceso,baja,2.0,52.0,,La Libertad,Trujillo,Victor Larco,,,user3512@mail.com,11.0
+REQ-1419,CI-825,OF-003,callcenter,queja,seguridad,ruidos,2023-07-04 23:00:00,2023-07-14 21:00:00,anulado,baja,5.0,124.0,172.42,Cusco,Cusco,Wanchaq,-14.898848,-75.060166,user9414@mail.com,238.0
+REQ-1282,CI-829,OF-001,web,queja,transporte,baches,2023-07-03 17:00:00,,cerrado,media,3.0,,62.62,Arequipa,Arequipa,Cayma,-11.954594,-76.289181,user144@mail.com,
+REQ-1123,CI-407,OF-004,web,consulta,tributos,desconocido,2023-07-03 15:00:00,2023-07-13 08:00:00,cerrado,baja,1.0,196.0,97.03,Lima,Lima,Miraflores,-14.187428,-75.244164,user7873@mail.com,233.0
+REQ-1013,CI-202,OF-002,callcenter,reclamo,salud,vacunas,2023-07-03 09:00:00,2023-07-03 13:00:00,cerrado,baja,1.0,14.0,193.68,La Libertad,Trujillo,Victor Larco,-11.8746,-72.759173,user8043@mail.com,4.0
+REQ-1149,CI-932,OF-004,email,consulta,tributos,arbitrios,2023-07-01 22:00:00,2023-07-02 01:00:00,abierto,baja,2.0,114.0,3.28,La Libertad,Trujillo,Victor Larco,-18.067463,-75.96979,user5863@mail.com,3.0
+REQ-1242,CI-381,OF-003,web,reclamo,seguridad,patrullaje,2023-07-01 18:00:00,2023-07-01 21:00:00,abierto,baja,4.0,196.0,13.65,Arequipa,Arequipa,Cayma,-12.824052,-70.702894,user4802@mail.com,3.0
+REQ-1287,CI-194,OF-002,web,queja,salud,vacunas,2023-07-01 01:00:00,2023-06-30 12:00:00,en_proceso,alta,3.0,171.0,200.2,Lima,Lima,Miraflores,-17.093016,-75.712093,user1638@mail.com,-13.0
+REQ-1087,CI-300,OF-999,presencial,solicitud,salud,citas,2023-06-30 13:00:00,2023-07-05 21:00:00,abierto,alta,5.0,137.0,252.2,Cusco,Cusco,Wanchaq,-16.189771,-73.440754,user9304@mail.com,128.0
+REQ-1058,CI-505,OF-005,web,consulta,servicios,luz,2023-06-28 00:00:00,2023-07-02 08:00:00,cerrado,media,5.0,64.0,33.15,Lima,Lima,Miraflores,-12.813892,-77.241863,,104.0
+REQ-1299,CI-742,OF-999,web,consulta,servicios,agua,2023-06-26 05:00:00,2023-06-28 17:00:00,cerrado,media,2.0,9999.0,73.17,Lima,Lima,San Isidro,-16.2235,-77.948524,user7365@mail.com,60.0
+REQ-1375,CI-712,OF-003,web,solicitud,seguridad,patrullaje,2023-06-26 05:00:00,2023-06-27 18:00:00,cerrado,alta,3.0,64.0,,Cusco,Cusco,Wanchaq,-16.982021,-78.306824,user4740@mail.com,37.0
+REQ-1389,CI-729,OF-004,email,consulta,tributos,arbitrios,2023-06-24 17:00:00,2023-07-04 11:00:00,cerrado,alta,4.0,85.0,222.29,Arequipa,Arequipa,Cayma,-15.864852,-73.820906,user8493@mail.com,234.0
+REQ-1160,CI-796,OF-001,presencial,queja,transporte,rutas,2023-06-21 23:00:00,2023-06-23 18:00:00,abierto,media,3.0,83.0,196.72,Lima,Lima,San Isidro,-14.014689,-70.091054,user6473@mail.com,43.0
+REQ-1497,CI-950,OF-004,callcenter,solicitud,tributos,multas,2023-06-20 13:00:00,2023-06-23 07:00:00,cerrado,baja,4.0,8.0,179.79,Arequipa,Arequipa,Cayma,-17.40586,-69.718638,user7243@mail.com,66.0
+REQ-1185,CI-717,OF-003,web,reclamo,OTRA,iluminacion,2023-06-16 17:00:00,2023-06-17 21:00:00,abierto,media,3.0,49.0,193.09,La Libertad,Trujillo,Victor Larco,-11.974347,-76.336984,user1394@mail.com,28.0
+REQ-1205,CI-795,OF-003,presencial,reclamo,seguridad,ruidos,2023-06-15 13:00:00,2023-06-24 06:00:00,en_proceso,alta,1.0,150.0,8.49,La Libertad,Trujillo,Victor Larco,-17.555419,-78.200847,user2303@mail.com,209.0
+REQ-1028,CI-205,OF-005,web,,servicios,agua,2023-06-14 08:00:00,2023-06-19 04:00:00,cerrado,baja,4.0,24.0,331.24,Lima,Lima,San Isidro,-12.728088,-70.538332,user437@mail.com,116.0
+REQ-1433,CI-653,OF-004,callcenter,solicitud,tributos,arbitrios,2023-06-13 23:00:00,2023-06-22 09:00:00,cerrado,media,3.0,233.0,3.97,Arequipa,Arequipa,Cayma,-11.703539,-72.659319,user912@mail.com,202.0
+REQ-1034,CI-354,OF-002,callcenter,consulta,salud,citas,2023-06-13 15:00:00,2023-06-19 03:00:00,en_proceso,alta,4.0,6.0,31.52,Cusco,Cusco,Wanchaq,-14.813522,-69.79982,user3525@mail.com,132.0
+REQ-1076,CI-325,OF-002,email,queja,salud,abastecimiento,2023-06-13 13:00:00,2023-06-11 18:00:00,en_proceso,baja,2.0,227.0,74.67,Lima,Lima,Surco,-15.981854,-75.857831,user8692@mail.com,-43.0
+REQ-1413,CI-574,OF-004,callcenter,consulta,tributos,arbitrios,2023-06-12 13:00:00,2023-06-21 15:00:00,abierto,media,1.0,62.0,290.91,Arequipa,Arequipa,Cayma,,,user7813@mail.com,218.0
+REQ-1141,CI-118,OF-003,callcenter,consulta,seguridad,ruidos,2023-06-12 05:00:00,2023-06-21 01:00:00,cerrado,media,1.0,87.0,150.72,Arequipa,Arequipa,Cayma,-16.681175,-73.442167,user7969@mail.com,212.0
+REQ-1065,CI-596,OF-005,callcenter,queja,servicios,limpieza,2023-06-12 02:00:00,2023-06-15 10:00:00,cerrado,media,,226.0,199.04,Lima,Lima,San Isidro,-16.908485,-71.003631,,80.0
+REQ-1463,CI-676,OF-001,callcenter,solicitud,transporte,baches,2023-06-11 11:00:00,2023-06-19 21:00:00,abierto,media,1.0,159.0,320.64,Cusco,Cusco,Wanchaq,-16.18902,-76.100591,user6054@mail.com,202.0
+REQ-1215,CI-462,OF-001,presencial,queja,transporte,baches,2023-06-10 16:00:00,2023-06-14 06:00:00,en_proceso,media,5.0,173.0,271.97,La Libertad,Trujillo,Victor Larco,-13.590818,-70.469547,user629@mail.com,86.0
+REQ-1027,CI-884,OF-004,presencial,reclamo,tributos,predial,2023-06-08 02:00:00,2023-06-11 06:00:00,cerrado,baja,5.0,214.0,258.53,Arequipa,Arequipa,Cayma,-17.947092,-75.469121,user2148@mail.com,76.0
+REQ-1340,CI-965,OF-001,web,reclamo,transporte,semaforos,2023-06-07 22:00:00,2023-06-12 17:00:00,en_proceso,media,4.0,175.0,329.03,La Libertad,Trujillo,Victor Larco,-12.735487,-77.736199,user7183@mail.com,115.0
+REQ-1264,CI-915,OF-004,app,solicitud,tributos,desconocido,2023-06-06 04:00:00,2023-06-14 01:00:00,cerrado,media,1.0,224.0,48.8,Lima,Lima,Surco,-15.644236,-70.667745,user2448@mail.com,189.0
+REQ-1363,CI-947,OF-002,presencial,reclamo,salud,citas,2023-06-04 20:00:00,2023-06-12 06:00:00,cerrado,media,5.0,49.0,312.77,Arequipa,Arequipa,Cayma,-14.126911,-78.487182,user5958@mail.com,178.0
+REQ-1496,CI-510,OF-003,presencial,solicitud,seguridad,iluminacion,2023-06-02 17:00:00,2023-06-07 09:00:00,cerrado,baja,2.0,207.0,233.74,Lima,Lima,Miraflores,-13.564265,-73.787847,user8125@mail.com,112.0
+REQ-1402,CI-327,OF-005,app,consulta,OTRA,agua,2023-06-02 12:00:00,2023-06-04 01:00:00,abierto,baja,1.0,128.0,91.73,Lima,Lima,Surco,-12.137609,-74.291879,user5874@mail.com,37.0
+REQ-1121,CI-408,OF-001,web,solicitud,transporte,baches,2023-05-29 14:00:00,2023-06-08 12:00:00,en_proceso,baja,5.0,130.0,115.95,La Libertad,Trujillo,Victor Larco,-16.219769,-70.436203,user9400@mail.com,238.0
+REQ-1192,CI-888,OF-003,web,consulta,seguridad,patrullaje,2023-05-28 20:00:00,2023-05-29 02:00:00,cerrado,media,1.0,29.0,160.69,Arequipa,Arequipa,Cayma,-17.378015,-77.223482,user4293@mail.com,6.0
+REQ-1029,CI-116,OF-005,email,reclamo,servicios,limpieza,2023-05-28 09:00:00,2023-05-27 02:00:00,abierto,baja,5.0,107.0,65.56,La Libertad,Trujillo,Victor Larco,-17.626387,-69.72811,user1109@mail.com,-31.0
+REQ-1397,CI-621,OF-004,web,solicitud,tributos,arbitrios,2023-05-26 05:00:00,2023-05-27 12:00:00,abierto,alta,3.0,223.0,,Lima,Lima,Surco,-13.218674,-71.368875,user8127@mail.com,31.0
+REQ-1045,CI-969,OF-004,email,consulta,tributos,arbitrios,2023-05-24 22:00:00,2023-06-01 16:00:00,abierto,media,3.0,14.0,34.19,Lima,Lima,San Isidro,-12.58088,-75.434665,user9759@mail.com,186.0
+REQ-1201,CI-277,OF-005,app,consulta,servicios,limpieza,2023-05-23 21:00:00,2023-06-01 02:00:00,abierto,baja,5.0,52.0,105.37,Lima,Lima,Miraflores,-16.207861,-70.155932,user7556@mail.com,197.0
+REQ-1032,CI-470,OF-005,presencial,queja,servicios,agua,2023-05-23 07:00:00,2023-05-31 18:00:00,en_proceso,baja,5.0,95.0,163.59,Arequipa,Arequipa,Cayma,-17.330533,-70.541782,user1078@mail.com,203.0
+REQ-1124,CI-647,OF-005,callcenter,reclamo,servicios,agua,2023-05-21 16:00:00,2023-05-24 17:00:00,en_proceso,media,3.0,236.0,318.78,Lima,Lima,Miraflores,-16.740229,-73.969554,user3088@mail.com,73.0
+REQ-1385,CI-431,OF-003,email,solicitud,seguridad,iluminacion,2023-05-21 10:00:00,2023-05-31 09:00:00,en_proceso,baja,,32.0,213.15,Lima,Lima,Surco,-16.619391,-70.113169,user4832@mail.com,239.0
+REQ-1024,CI-156,OF-001,presencial,consulta,transporte,semaforos,2023-05-21 08:00:00,2023-05-24 11:00:00,en_proceso,baja,4.0,45.0,45.21,Arequipa,Arequipa,Cayma,-13.485403,-73.997639,user5803@mail.com,75.0
+REQ-1163,CI-675,OF-005,app,queja,servicios,luz,2023-05-20 22:00:00,2023-05-25 23:00:00,abierto,alta,1.0,4.0,301.58,La Libertad,Trujillo,Victor Larco,-13.340186,-74.076917,user6813@mail.com,121.0
+REQ-1391,CI-354,OF-005,presencial,solicitud,servicios,luz,2023-05-18 20:00:00,2023-05-28 02:00:00,en_proceso,baja,4.0,11.0,200.89,La Libertad,Trujillo,Victor Larco,-14.641504,-71.062834,user1656@mail.com,222.0
+REQ-1092,,OF-002,web,solicitud,salud,vacunas,2023-05-18 08:00:00,2023-05-27 23:00:00,abierto,media,5.0,76.0,189.96,Cusco,Cusco,Wanchaq,-16.928502,-76.820359,,231.0
+REQ-1186,CI-887,OF-002,email,consulta,salud,vacunas,2023-05-15 10:00:00,2023-05-18 13:00:00,,alta,4.0,11.0,311.74,La Libertad,Trujillo,Victor Larco,-15.60285,-76.620614,user9944@mail.com,75.0
+REQ-1099,CI-856,OF-003,presencial,reclamo,seguridad,patrullaje,2023-05-15 05:00:00,2023-05-15 12:00:00,cerrado,media,3.0,156.0,198.47,Lima,Lima,San Isidro,-14.204383,-76.421789,user428@mail.com,7.0
+REQ-1465,,OF-003,email,reclamo,seguridad,patrullaje,2023-05-15 03:00:00,2023-05-18 05:00:00,en_proceso,baja,3.0,201.0,270.64,Cusco,Cusco,Wanchaq,-16.967578,-72.718002,user2362@mail.com,74.0
+REQ-1106,CI-830,OF-005,web,solicitud,servicios,limpieza,2023-05-15 02:00:00,2023-05-23 19:00:00,cerrado,media,1.0,117.0,108.64,La Libertad,Trujillo,Victor Larco,-13.441553,-74.311431,user3797@mail.com,209.0
+REQ-1096,CI-187,OF-004,email,solicitud,tributos,multas,2023-05-14 04:00:00,2023-05-19 08:00:00,en_proceso,media,5.0,51.0,196.41,La Libertad,Trujillo,Victor Larco,-14.68754,-76.319164,user4363@mail.com,124.0
+REQ-1176,CI-531,OF-004,email,solicitud,tributos,multas,2023-05-11 10:00:00,2023-05-19 11:00:00,cerrado,alta,5.0,186.0,323.25,Cusco,Cusco,Wanchaq,-17.319502,-69.880893,user347@mail.com,193.0
+REQ-1005,CI-777,OF-002,web,queja,salud,vacunas,2023-05-10 10:00:00,2023-05-12 09:00:00,cerrado,media,4.0,47.0,12.5,Lima,Lima,Miraflores,-12.1201,-77.0305,dup@mail.com,47.0
+REQ-1369,CI-414,OF-003,web,consulta,seguridad,ruidos,2023-05-05 12:00:00,2023-05-11 14:00:00,cerrado,,5.0,63.0,291.82,Lima,Lima,Surco,-16.352221,-74.441986,user3710@mail.com,146.0
+REQ-1145,CI-478,OF-001,email,solicitud,transporte,desconocido,2023-05-04 11:00:00,2023-05-10 14:00:00,en_proceso,media,1.0,96.0,106.72,Lima,Lima,Surco,-16.168157,-74.12667,user2341@mail.com,147.0
+REQ-1253,CI-252,OF-004,web,queja,tributos,multas,2023-05-04 09:00:00,2023-05-14 09:00:00,en_proceso,baja,2.0,152.0,181.47,Lima,Lima,Miraflores,-14.865738,-73.06847,user5528@mail.com,240.0
+REQ-1115,CI-146,OF-005,presencial,consulta,servicios,agua,2023-05-04 08:00:00,2023-05-05 21:00:00,,baja,3.0,142.0,99999.99,Lima,Lima,San Isidro,-11.997974,-78.13371,user1638@mail.com,37.0
+REQ-1467,CI-139,OF-002,email,solicitud,salud,vacunas,2023-05-02 12:00:00,2023-05-12 07:00:00,en_proceso,baja,1.0,225.0,217.3,Lima,Lima,Miraflores,-16.5488,-77.200585,user3287@mail.com,235.0
+REQ-1103,CI-724,OF-002,callcenter,reclamo,salud,citas,2023-05-02 00:00:00,2023-05-07 00:00:00,cerrado,baja,2.0,205.0,215.36,Cusco,Cusco,Wanchaq,-15.425924,-75.49587,user9182@mail.com,120.0
+REQ-1224,CI-681,OF-001,email,solicitud,transporte,semaforos,2023-04-30 02:00:00,2023-05-02 01:00:00,cerrado,baja,5.0,161.0,338.02,Lima,Lima,San Isidro,-12.915464,-76.542267,user6137@mail.com,47.0
+REQ-1212,CI-348,OF-003,presencial,solicitud,seguridad,iluminacion,2023-04-29 22:00:00,2023-05-02 12:00:00,en_proceso,critica,4.0,93.0,27.89,Arequipa,Arequipa,Cayma,-14.812189,-70.26828,user7933@mail.com,62.0
+REQ-1194,CI-760,OF-005,callcenter,solicitud,servicios,agua,2023-04-28 05:00:00,2023-05-06 21:00:00,en_proceso,alta,,800.0,25.42,La Libertad,Trujillo,Victor Larco,,,user5152@mail.com,208.0
+REQ-1081,CI-221,OF-002,app,consulta,salud,abastecimiento,2023-04-27 15:00:00,2023-05-04 20:00:00,en_proceso,baja,2.0,166.0,291.68,Lima,Lima,Miraflores,-16.567409,-77.349034,,173.0
+REQ-1016,CI-114,OF-005,app,queja,servicios,agua,2023-04-27 14:00:00,2023-04-28 21:00:00,cerrado,baja,3.0,131.0,246.89,Cusco,Cusco,Wanchaq,-12.60735,-69.677798,user3994@mail.com,31.0
+REQ-1428,CI-495,OF-004,callcenter,reclamo,tributos,multas,2023-04-27 10:00:00,2023-05-06 21:00:00,cerrado,media,1.0,27.0,132.86,Lima,Lima,Surco,-12.287355,-73.271731,user2326@mail.com,227.0
+REQ-1038,CI-237,OF-005,app,consulta,servicios,agua,2023-04-26 10:00:00,2023-04-28 04:00:00,cerrado,media,2.0,4.0,257.82,Lima,Lima,Surco,-14.395866,-71.684455,user2876@mail.com,42.0
+REQ-1116,CI-575,OF-002,callcenter,queja,salud,citas,2023-04-26 04:00:00,2023-05-03 12:00:00,cerrado,alta,4.0,46.0,55.92,Lima,Lima,Miraflores,-17.838015,-75.222262,user3434@mail.com,176.0
+REQ-1399,CI-867,OF-002,app,queja,salud,abastecimiento,2023-04-23 18:00:00,2023-04-24 03:00:00,en_proceso,media,5.0,34.0,30.01,Lima,Lima,Surco,,,user8669@mail.com,9.0
+REQ-1200,CI-543,OF-004,email,consulta,tributos,desconocido,2023-04-23 00:00:00,2023-04-28 08:00:00,cerrado,baja,2.0,134.0,338.34,Arequipa,Arequipa,Cayma,-14.460456,-77.036539,user7977@mail.com,128.0
+REQ-1471,CI-563,OF-005,web,reclamo,servicios,luz,2023-04-15 22:00:00,2023-04-17 04:00:00,,baja,1.0,212.0,298.55,Lima,Lima,Surco,-16.898593,-69.795361,user7259@mail.com,30.0
+REQ-1404,CI-519,OF-005,presencial,reclamo,servicios,luz,2023-04-14 23:00:00,2023-04-22 05:00:00,abierto,media,2.0,101.0,158.57,Lima,Lima,Miraflores,-14.787101,-70.874264,user6348@mail.com,174.0
+REQ-1424,CI-151,OF-003,app,solicitud,seguridad,ruidos,2023-04-07 09:00:00,2023-04-09 18:00:00,en_proceso,critica,5.0,68.0,96.53,Cusco,Cusco,Wanchaq,-17.856763,-71.950327,user1350@mail.com,57.0
+REQ-1398,CI-790,OF-002,app,consulta,salud,vacunas,2023-04-07 07:00:00,2023-04-17 04:00:00,abierto,media,4.0,155.0,286.42,La Libertad,Trujillo,Victor Larco,-14.466818,-69.765398,user2195@mail.com,237.0
+REQ-1483,CI-820,OF-002,app,queja,salud,vacunas,2023-04-06 03:00:00,2023-04-10 01:00:00,en_proceso,baja,5.0,109.0,39.49,Arequipa,Arequipa,Cayma,-14.372382,-71.060584,user6315@mail.com,94.0
+REQ-1468,CI-265,OF-005,email,queja,servicios,luz,2023-04-05 03:00:00,2023-04-06 13:00:00,cerrado,media,3.0,82.0,47.85,Cusco,Cusco,Wanchaq,-11.94296,-77.824254,user9955@mail.com,34.0
+REQ-1190,CI-390,OF-005,web,queja,servicios,agua,2023-04-02 20:00:00,2023-04-03 01:00:00,cerrado,media,,192.0,263.1,Arequipa,Arequipa,Cayma,-17.531996,-74.50307,user9523@mail.com,5.0
+REQ-1059,CI-402,OF-004,app,solicitud,tributos,predial,2023-03-31 08:00:00,2023-04-04 11:00:00,abierto,baja,5.0,64.0,220.76,Arequipa,Arequipa,Cayma,-12.87453,-69.595367,user5884@mail.com,99.0
+REQ-1256,CI-367,OF-001,web,solicitud,transporte,semaforos,2023-03-30 17:00:00,2023-04-08 18:00:00,en_proceso,baja,1.0,121.0,167.59,Lima,Lima,Miraflores,-16.668078,-71.002147,user3023@mail.com,217.0
+REQ-1183,CI-646,OF-004,email,reclamo,tributos,arbitrios,2023-03-27 18:00:00,2023-04-04 10:00:00,en_proceso,media,2.0,180.0,30.54,Lima,Lima,Surco,-18.180797,-69.554852,user282@mail.com,184.0
+REQ-1332,,OF-005,app,reclamo,servicios,agua,2023-03-27 14:00:00,2023-03-27 20:00:00,cerrado,media,5.0,75.0,324.73,Arequipa,Arequipa,Cayma,-17.99541,-71.116863,user1157@mail.com,6.0
+REQ-1110,CI-398,OF-005,web,consulta,servicios,luz,2023-03-26 04:00:00,2023-03-31 14:00:00,abierto,alta,3.0,34.0,215.53,Lima,Lima,Surco,-12.452349,-78.372173,user1828@mail.com,130.0
+REQ-1517,CI-883,OF-005,email,solicitud,servicios,luz,2023-03-24 02:00:00,2023-03-29 23:00:00,abierto,alta,5.0,56.0,262.11,Cusco,Cusco,Wanchaq,,,user6986@mail.com,141.0
+REQ-1138,CI-637,OF-001,callcenter,solicitud,transporte,baches,2023-03-23 15:00:00,2023-03-26 20:00:00,abierto,baja,3.0,216.0,87.03,Cusco,Cusco,Wanchaq,,,user1254@mail.com,77.0
+REQ-1506,CI-921,OF-002,app,queja,salud,citas,2023-03-20 15:00:00,2023-03-27 05:00:00,cerrado,baja,5.0,10.0,264.01,Lima,Lima,Miraflores,-16.119836,-73.081538,user923@mail.com,158.0
+REQ-1262,CI-482,OF-001,presencial,reclamo,transporte,semaforos,2023-03-19 00:00:00,2023-03-26 18:00:00,abierto,alta,5.0,19.0,54.69,La Libertad,Trujillo,Victor Larco,,,user5422@mail.com,186.0
+REQ-1344,CI-543,OF-004,app,consulta,tributos,predial,2023-03-17 00:00:00,2023-03-26 16:00:00,cerrado,alta,,223.0,30.29,Lima,Lima,Miraflores,,,user3684@mail.com,232.0
+REQ-1162,CI-287,OF-004,web,queja,tributos,arbitrios,2023-03-13 06:00:00,2023-03-13 20:00:00,cerrado,baja,2.0,33.0,32.12,Arequipa,Arequipa,Cayma,-14.522724,-71.342902,user3349@mail.com,14.0
+REQ-1449,CI-692,OF-999,email,solicitud,transporte,rutas,2023-03-09 19:00:00,2023-03-08 22:00:00,en_proceso,alta,,225.0,170.44,Lima,Lima,Surco,-15.944543,-77.124291,user4403@mail.com,-21.0
+REQ-1277,CI-176,OF-004,email,queja,tributos,arbitrios,2023-03-09 17:00:00,2023-03-10 15:00:00,cerrado,alta,1.0,95.0,97.09,Lima,Lima,Surco,-15.087802,-71.238698,user5595@mail.com,22.0
+REQ-1362,CI-147,OF-003,presencial,solicitud,seguridad,ruidos,2023-03-06 00:00:00,2023-03-15 22:00:00,cerrado,baja,5.0,169.0,344.43,Lima,Lima,Miraflores,-18.030374,-77.132152,user2920@mail.com,238.0
+REQ-1140,CI-705,OF-005,app,reclamo,servicios,limpieza,2023-03-04 16:00:00,2023-03-04 21:00:00,en_proceso,baja,1.0,800.0,312.51,Cusco,Cusco,Wanchaq,-12.242758,-77.447533,user5682@mail.com,5.0
+REQ-1303,CI-976,OF-005,presencial,reclamo,servicios,agua,2023-03-04 08:00:00,2023-03-12 22:00:00,abierto,baja,4.0,65.0,292.21,Lima,Lima,Miraflores,-12.235627,-70.262886,user82@mail.com,206.0
+REQ-1071,CI-916,OF-002,web,reclamo,OTRA,abastecimiento,2023-03-02 05:00:00,2023-03-03 08:00:00,en_proceso,media,5.0,174.0,,Arequipa,Arequipa,Cayma,-15.65567,-75.27261,user473@mail.com,27.0
+REQ-1448,CI-927,OF-005,presencial,consulta,servicios,limpieza,2023-02-28 11:00:00,2023-03-01 06:00:00,en_proceso,baja,3.0,28.0,-50.0,Lima,Lima,Surco,-12.427448,-76.159891,user8394@mail.com,19.0
+REQ-1359,CI-388,OF-004,presencial,consulta,tributos,multas,2023-02-28 11:00:00,2023-03-06 04:00:00,abierto,baja,2.0,209.0,12.16,La Libertad,Trujillo,Victor Larco,-16.586066,-77.79183,user5994@mail.com,137.0
+REQ-1228,CI-565,OF-001,app,solicitud,transporte,desconocido,2023-02-25 09:00:00,2023-03-01 22:00:00,en_proceso,media,5.0,207.0,280.85,Cusco,Cusco,Wanchaq,-14.836187,-71.470968,user5490@mail.com,109.0
+REQ-1188,CI-927,OF-003,app,solicitud,seguridad,patrullaje,2023-02-25 06:00:00,,abierto,alta,4.0,70.0,88.22,Lima,Lima,San Isidro,-17.639938,-77.876669,user6637@mail.com,
+REQ-1346,CI-717,OF-004,callcenter,queja,tributos,arbitrios,2023-02-24 22:00:00,2023-03-06 08:00:00,anulado,alta,3.0,69.0,320.69,Lima,Lima,Miraflores,,,user4812@mail.com,226.0
+REQ-1261,CI-632,OF-001,otro,consulta,transporte,semaforos,2023-02-23 20:00:00,2023-02-26 10:00:00,cerrado,baja,4.0,87.0,14.16,La Libertad,Trujillo,Victor Larco,-11.532852,-72.58976,user1315@mail.com,62.0
+REQ-1177,CI-249,OF-004,web,reclamo,tributos,desconocido,2023-02-22 12:00:00,2023-02-26 21:00:00,en_proceso,media,2.0,57.0,117.66,Cusco,Cusco,Wanchaq,-17.788957,-74.656345,user847@mail.com,105.0
+REQ-1482,CI-212,OF-004,callcenter,queja,tributos,multas,2023-02-19 06:00:00,2023-02-24 21:00:00,cerrado,media,1.0,74.0,89.35,Lima,Lima,Miraflores,-17.789617,-77.947077,user3965@mail.com,135.0
+REQ-1416,CI-832,OF-001,email,reclamo,transporte,rutas,2023-02-17 05:00:00,2023-02-19 05:00:00,cerrado,alta,3.0,226.0,284.85,Arequipa,Arequipa,Cayma,-17.981751,-76.168567,user9379@mail.com,48.0
+REQ-1105,CI-968,OF-005,web,consulta,OTRA,luz,2023-02-17 03:00:00,2023-02-22 17:00:00,cerrado,media,1.0,148.0,265.47,La Libertad,Trujillo,Victor Larco,-12.222692,-75.612077,user3155@mail.com,134.0
+REQ-1307,CI-233,OF-005,email,solicitud,servicios,limpieza,2023-02-13 11:00:00,2023-02-20 05:00:00,,alta,2.0,127.0,327.46,Cusco,Cusco,Wanchaq,-15.283013,-71.383413,user760@mail.com,162.0
+REQ-1279,CI-243,OF-002,web,consulta,salud,citas,2023-02-12 02:00:00,2023-02-15 02:00:00,abierto,media,,201.0,33.56,La Libertad,Trujillo,Victor Larco,-13.598947,-76.655965,,72.0
+REQ-1078,CI-793,OF-003,web,reclamo,seguridad,patrullaje,2023-02-12 00:00:00,2023-02-18 03:00:00,en_proceso,media,1.0,79.0,73.52,La Libertad,Trujillo,Victor Larco,-12.146239,-75.405335,user6761@mail.com,147.0
+REQ-1421,CI-289,OF-001,app,consulta,transporte,rutas,2023-02-10 00:00:00,2023-02-17 16:00:00,abierto,baja,1.0,184.0,76.86,Lima,Lima,Surco,-13.087796,-73.65131,user2911@mail.com,184.0
+REQ-1195,CI-104,OF-004,callcenter,reclamo,tributos,arbitrios,2023-02-07 17:00:00,2023-02-17 13:00:00,en_proceso,baja,,18.0,164.46,Cusco,Cusco,Wanchaq,-13.3542,-76.027938,user5666@mail.com,236.0
+REQ-1114,CI-653,OF-003,otro,solicitud,seguridad,patrullaje,2023-02-07 10:00:00,2023-02-08 01:00:00,en_proceso,media,4.0,31.0,74.09,La Libertad,Trujillo,Victor Larco,-13.72898,-74.374667,,15.0
+REQ-1233,CI-263,OF-002,app,queja,salud,citas,2023-02-03 21:00:00,2023-02-11 03:00:00,en_proceso,media,4.0,221.0,134.86,Cusco,Cusco,Wanchaq,-11.784249,-70.549787,user8804@mail.com,174.0
+REQ-1117,CI-467,OF-003,presencial,consulta,seguridad,patrullaje,2023-02-02 22:00:00,2023-02-09 00:00:00,abierto,baja,4.0,118.0,146.38,Lima,Lima,Surco,-16.726981,-75.843546,user2569@mail.com,146.0
+REQ-1093,CI-306,OF-001,app,reclamo,transporte,semaforos,2023-02-02 18:00:00,2023-02-09 15:00:00,cerrado,media,5.0,160.0,245.46,Lima,Lima,Surco,-17.871126,-76.513495,user1162@mail.com,165.0
+REQ-1383,CI-996,OF-001,callcenter,reclamo,transporte,semaforos,2023-02-02 05:00:00,2023-02-06 12:00:00,abierto,media,4.0,103.0,,,Arequipa,Cayma,-12.158397,-78.337296,user8919@mail.com,103.0
+REQ-1098,CI-613,OF-003,web,consulta,seguridad,iluminacion,2023-01-31 17:00:00,2023-02-03 17:00:00,abierto,baja,4.0,169.0,48.04,La Libertad,Trujillo,Victor Larco,-15.639212,-69.854549,user3727@mail.com,72.0
+REQ-1345,CI-471,OF-004,web,solicitud,tributos,arbitrios,2023-01-24 22:00:00,2023-01-31 07:00:00,abierto,baja,1.0,34.0,151.06,La Libertad,Trujillo,Victor Larco,-13.081197,-75.27344,user8553@mail.com,153.0
+REQ-1120,CI-554,OF-001,callcenter,reclamo,transporte,semaforos,2023-01-23 07:00:00,2023-02-01 05:00:00,cerrado,media,4.0,149.0,119.98,La Libertad,Trujillo,Victor Larco,-12.928277,-74.124664,user8687@mail.com,214.0
+REQ-1239,CI-686,OF-005,callcenter,consulta,servicios,limpieza,2023-01-23 04:00:00,2023-01-31 10:00:00,cerrado,alta,3.0,219.0,126.43,Cusco,Cusco,Wanchaq,-13.19327,-76.566685,user5264@mail.com,198.0
+REQ-1450,CI-881,OF-002,callcenter,consulta,salud,abastecimiento,2023-01-18 14:00:00,2023-01-20 15:00:00,cerrado,baja,2.0,25.0,197.23,Cusco,Cusco,Wanchaq,-13.744581,-74.259515,user8726@mail.com,49.0
+REQ-1339,CI-300,OF-001,presencial,consulta,transporte,baches,2023-01-14 08:00:00,2023-01-19 03:00:00,abierto,media,3.0,219.0,57.44,Cusco,Cusco,Wanchaq,-17.689864,-71.925978,user2698@mail.com,115.0
+REQ-1422,CI-213,OF-002,presencial,solicitud,salud,citas,2023-01-13 20:00:00,2023-01-23 20:00:00,cerrado,baja,1.0,112.0,104.88,Lima,Lima,San Isidro,-13.406712,-74.998195,user4523@mail.com,240.0
+REQ-1356,CI-531,OF-003,otro,reclamo,seguridad,ruidos,2023-01-11 21:00:00,2023-01-13 06:00:00,cerrado,media,2.0,10.0,221.92,Lima,Lima,Miraflores,-16.344112,-72.070453,user2446@mail.com,33.0
+REQ-1084,CI-711,OF-001,presencial,solicitud,transporte,baches,2023-01-11 06:00:00,,cerrado,alta,3.0,50.0,11.76,Arequipa,Arequipa,Cayma,,,user2777@mail.com,
+REQ-1168,CI-716,OF-005,presencial,queja,servicios,luz,2023-01-10 17:00:00,2023-01-19 20:00:00,en_proceso,baja,3.0,215.0,76.62,La Libertad,Trujillo,Victor Larco,-15.146244,-73.086811,user2390@mail.com,219.0
+REQ-1358,CI-719,OF-002,presencial,solicitud,salud,vacunas,2023-01-09 09:00:00,2023-01-16 07:00:00,cerrado,baja,2.0,34.0,296.28,Cusco,Cusco,Wanchaq,-17.297579,-70.561422,user1925@mail.com,166.0
+REQ-1365,CI-800,OF-004,callcenter,queja,tributos,predial,2023-01-07 15:00:00,2023-01-14 19:00:00,en_proceso,alta,3.0,198.0,42.71,Arequipa,Arequipa,Cayma,-16.029476,-78.378032,user1176@mail.com,172.0
+REQ-1153,CI-439,OF-004,presencial,solicitud,tributos,predial,2023-01-07 11:00:00,2023-01-07 14:00:00,abierto,baja,1.0,37.0,101.7,Lima,Lima,San Isidro,-13.970058,-70.285621,user5897@mail.com,3.0
+REQ-1321,CI-752,OF-004,callcenter,solicitud,tributos,predial,2023-01-07 04:00:00,2023-01-11 02:00:00,cerrado,critica,2.0,236.0,129.09,Lima,Lima,San Isidro,-11.836989,-77.873661,user3579@mail.com,94.0
+REQ-1049,CI-302,OF-004,email,solicitud,tributos,arbitrios,2023-01-05 22:00:00,2023-01-08 05:00:00,abierto,alta,1.0,148.0,35.61,Arequipa,Arequipa,Cayma,-16.947369,-75.566136,user7497@mail.com,55.0
+REQ-1310,CI-632,OF-002,email,queja,salud,vacunas,2023-01-04 11:00:00,2023-01-08 20:00:00,cerrado,baja,2.0,231.0,243.3,Arequipa,Arequipa,Cayma,-15.291207,-78.230541,user2413@mail.com,105.0
+REQ-1021,CI-932,OF-002,callcenter,reclamo,salud,abastecimiento,2023-01-03 08:00:00,2023-01-12 12:00:00,anulado,critica,5.0,65.0,279.48,Lima,Lima,Miraflores,-13.770914,-78.267979,user244@mail.com,220.0
+REQ-1366,CI-608,OF-003,presencial,queja,seguridad,iluminacion,2023-01-01 04:00:00,2023-01-01 09:00:00,en_proceso,media,2.0,171.0,5.22,Arequipa,Arequipa,Cayma,-12.391923,-74.034826,user2228@mail.com,5.0
+REQ-0000,,OF-004,app,reclamo,tributos,multas,2022-01-01 00:00:00,,abierto,alta,,,-1.0,,,,,,,
